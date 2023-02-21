@@ -1,0 +1,9 @@
+{
+	"Configuration": "Agent de surveilance des voies publiques",
+	"Transmission": "Manual",
+	"Description": "A.S.V.P",
+	"Drivetrain": "RWD",
+	"Performance Class": "5",
+	"default_color": "Pearl White",
+	"Config Type": "Police"
+}

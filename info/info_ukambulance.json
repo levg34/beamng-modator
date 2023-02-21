@@ -1,0 +1,10 @@
+{
+   "Configuration":"Light Ambulance"
+   "Transmission":"Manual",
+   "Description":"Light Ambulance."
+   "Drivetrain":"RWD",
+   "Value":"140000",
+   "Performance Class":"1",
+   "Config Type":"Service",
+   "default_color":"Pearl White"
+   }

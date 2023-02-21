@@ -1,0 +1,10 @@
+{
+    "Configuration":"Poste de Commandement Pompier",
+    "Transmission":"Automatic",
+    "Description":"P.C Pompier",
+    "Body Style":"Van",
+    "Drivetrain":"RWD",
+    "Performance Class":"3",
+    "default_color":"Pearl White",
+    "Config Type":"Service"
+}

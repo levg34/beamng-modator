@@ -1,0 +1,9 @@
+{
+	"Configuration": "Ambulance Taxi",
+	"Transmission": "Manual",
+	"Description": "Ambulance Taxi",
+	"Drivetrain": "RWD",
+	"Performance Class": "5",
+	"default_color": "Pearl White",
+	"Config Type": "Factory"
+}

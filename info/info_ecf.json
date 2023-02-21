@@ -1,0 +1,10 @@
+{
+	"Configuration":"ECF",
+	"Transmission":"Automatic",
+	"Description":"Auto-École ECF",
+	"Drivetrain":"FWD",
+	"Value":3800,
+	"Performance Class":"3",
+	"default_color":"Pearl White",
+	"Config Type":"Factory"
+}

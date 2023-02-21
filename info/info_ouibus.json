@@ -1,0 +1,26 @@
+{
+"Weight":12280,
+"Country":"United States",
+"Top Speed":25.7068,
+"Value":69500,
+"TorquePeakRPM":"1100 - 1600",
+"Author":"BeamNG",
+"Configuration":"OuiBus",
+"Type":"Truck",
+"colors":{
+  "Pearl White":"0.9 0.9 0.9 1.18"
+},
+"Name":"DT40L",
+"PowerPeakRPM":1800,
+"default_color":"Peal White",
+"Torque":1474.18,
+"Derby Class":"Heavy Truck",
+"Brand":"Wentward",
+"Weight/Power":35.0857,
+"Power":350.851,
+"Years":{
+  "min":1987,
+  "max":1996
+},
+"Off-Road Score":23
+}

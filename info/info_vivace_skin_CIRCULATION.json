@@ -1,0 +1,31 @@
+{
+  "Configuration":"Mairie de Paris Circulation",
+  "Description":"Generated with \"Info Generator\"\nEngine installed - \"2.0L I4 Engine\"\nTransmission installed - \"7-Speed Dual Clutch Transmission\"\n",
+  "Body Style":"Hatchback",
+  "Drivetrain":"FWD",
+  "Fuel Type":"Gasoline",
+  "Transmission":"DCT",
+  "Weight":1530,
+  "Value":10900,
+  "Power":310,
+  "Weight/Power":4.93,
+  "PowerPeakRPM":"5550 - 6300",
+  "Torque":400,
+  "Performance Class":"7",
+  "TorquePeakRPM":"2200 - 5500",
+  "Braking G":1.25,
+  "Population":1900,
+  "Propulsion":"ICE",
+  "Off-Road Score":38,
+  "Top Speed":107,
+  "Config Type":"Police",
+  "0-100 km/h":5.4,
+  "0-60 mph":5,
+  "100-0 km/h":31.2,
+  "60-0 mph":96.4,
+  "Years":{
+    "max":2020,
+    "min":2020
+  },
+  "Induction Type":"NA"
+}

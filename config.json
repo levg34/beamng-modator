@@ -1,0 +1,10 @@
+{
+    "Gendarmerie": {
+        "pc.parts": {
+            "soundscape_siren": "soundscape_siren_gendarmerie"
+        },
+        "info": {
+            "Config Type": "Police"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"Configuration":"Voiture pilote",
+	"Transmission":"Manual",
+  "Description":"Convois Exeptionels"
+	"Drivetrain":"RWD",
+	"Performance Class":"5",
+	"default_color":"Pearl White",
+	"Config Type":"Factory"
+}

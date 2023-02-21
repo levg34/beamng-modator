@@ -1,0 +1,7272 @@
+[
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "fullsize",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "etk800",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "sunburst",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "etk800",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "etki",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "fullsize",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "hatch",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_10",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "legran",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.07,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.07,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "midsize",
+    "paints": [
+      {
+        "baseColor": [
+          0,
+          0,
+          0,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 1,
+        "roughness": 1
+      },
+      {
+        "baseColor": [
+          0,
+          0,
+          0,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 1,
+        "roughness": 1
+      },
+      {
+        "baseColor": [
+          0,
+          0,
+          0,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 1,
+        "roughness": 1
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_6",
+      "soundscape_siren": "soundscape_siren_25"
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "pessima",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_6",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "roamer",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "bastion",
+    "paints": [
+      {
+        "baseColor": [
+          0,
+          0,
+          0,
+          2
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0299999993",
+        "metallic": "0.879999995",
+        "roughness": "0.899999976"
+      },
+      {
+        "baseColor": [
+          0.815999985,
+          0.107000001,
+          0.107000001,
+          2
+        ],
+        "clearcoat": "0",
+        "clearcoatRoughness": "0.0299999993",
+        "metallic": "0.85799998",
+        "roughness": "0.261999995"
+      },
+      {
+        "baseColor": [
+          0.135000005,
+          0.141000003,
+          0.147,
+          2
+        ],
+        "clearcoat": "0",
+        "clearcoatRoughness": "1",
+        "metallic": "0.209999993",
+        "roughness": "0.610000014"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {
+      "$toe_R": 0.9965,
+      "$camber_F": 1,
+      "$camber_R": 0.988,
+      "$toe_F": 1.0005
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "bastion",
+    "paints": [
+      {
+        "baseColor": [
+          0,
+          0,
+          0,
+          2
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0299999993",
+        "metallic": "0.879999995",
+        "roughness": "0.899999976"
+      },
+      {
+        "baseColor": [
+          0.815999985,
+          0.107000001,
+          0.107000001,
+          2
+        ],
+        "clearcoat": "0",
+        "clearcoatRoughness": "0.0299999993",
+        "metallic": "0.85799998",
+        "roughness": "0.261999995"
+      },
+      {
+        "baseColor": [
+          0.135000005,
+          0.141000003,
+          0.147,
+          2
+        ],
+        "clearcoat": "0",
+        "clearcoatRoughness": "1",
+        "metallic": "0.209999993",
+        "roughness": "0.610000014"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {
+      "$toe_R": 0.9965,
+      "$camber_F": 1,
+      "$camber_R": 0.988,
+      "$toe_F": 1.0005
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "hopper",
+    "paints": [
+      {
+        "baseColor": [
+          0.275000006,
+          0.301999986,
+          0.25,
+          2
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.400000006",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.275000006,
+          0.301999986,
+          0.25,
+          2
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.400000006",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.275000006,
+          0.301999986,
+          0.25,
+          2
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.400000006",
+        "metallic": "0",
+        "roughness": "1"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_2",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {
+      "$fuel": 60,
+      "$steer_center_F2": 0,
+      "$tirepressure_F": 32,
+      "$tirepressure_R": 32,
+      "$toe_F2": 0,
+      "$trackbar_F2": 0,
+      "$trackbar_R2": -0.01,
+      "$trackoffset_F": 0,
+      "$trackoffset_R": 0
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "pickup",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_pompierfr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "man",
+    "paints": [
+      {
+        "baseColor": [
+          0.949000001,
+          0.944999993,
+          0.913999975,
+          1.20000005
+        ],
+        "clearcoat": "0.800000012",
+        "clearcoatRoughness": "0",
+        "metallic": "0.200000003",
+        "roughness": "0.5"
+      },
+      {
+        "baseColor": [
+          0.949000001,
+          0.944999993,
+          0.913999975,
+          1.20000005
+        ],
+        "clearcoat": "0.800000012",
+        "clearcoatRoughness": "0",
+        "metallic": "0.200000003",
+        "roughness": "0.5"
+      },
+      {
+        "baseColor": [
+          0.949000001,
+          0.944999993,
+          0.913999975,
+          1.20000005
+        ],
+        "clearcoat": "0.800000012",
+        "clearcoatRoughness": "0",
+        "metallic": "0.200000003",
+        "roughness": "0.5"
+      }
+    ],
+    "parts": {
+      "soundscape_siren": "soundscape_siren_10"
+    },
+    "vars": {
+      "$airbag_R1_pressure": 50,
+      "$fuel_R": 450,
+      "$spoilerheight": 1,
+      "$steer_center": 0,
+      "$tirepressure_F": 99.6,
+      "$tirepressure_R": 80,
+      "$toe": 0.997
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3"
+    },
+    "vars": {
+      "$tirepressure_F": 50,
+      "$tirepressure_R": 50
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "roamer",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_samufr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "etk800",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_samufr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_samufr"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "ZS.968MU",
+    "model": "man",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.2
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.2
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.2
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_siren": ""
+    },
+    "vars": {
+      "$airbag_R1_pressure": 50,
+      "$fuel_L": 300,
+      "$fuel_R": 450,
+      "$steer_center": 0,
+      "$tirepressure_F": 99.6,
+      "$tirepressure_F_2": 99.6,
+      "$tirepressure_R": 80,
+      "$toe": 0.997
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "roamer",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_pompierfr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_pompierfr"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "citybus",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0900000036",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0900000036",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0900000036",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_12"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "fullsize",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "pessima",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_6",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "etk800",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "sunburst",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "etk800",
+    "paints": [
+      {
+        "baseColor": [
+          0,
+          0,
+          0,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 1,
+        "roughness": 1
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_3"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "roamer",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_pompierfr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "fullsize",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_samufr"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "roamer",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_samufr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "BeamNG",
+    "model": "semi",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.12,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.675427757,
+          0.423214383,
+          0.224572243,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.12,
+        "metallic": 0,
+        "roughness": 1
+      }
+    ],
+    "parts": {},
+    "vars": {
+      "$airbag_R2_pressure": 60
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "midsize",
+    "paints": [
+      {
+        "baseColor": [
+          0,
+          0,
+          0,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 1,
+        "roughness": 1
+      },
+      {
+        "baseColor": [
+          0,
+          0,
+          0,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 1,
+        "roughness": 1
+      },
+      {
+        "baseColor": [
+          0,
+          0,
+          0,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 1,
+        "roughness": 1
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_6",
+      "soundscape_siren": "soundscape_siren_25"
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "sunburst",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "etk800",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "28476-pickup",
+    "model": "dryvan",
+    "paints": [
+      {
+        "baseColor": [
+          0.9,
+          0.9,
+          0.9,
+          1
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.9,
+          0.9,
+          0.9,
+          1
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.9,
+          0.9,
+          0.9,
+          1
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {},
+    "vars": {
+      "$tirepressure_F": 60,
+      "$tirepressure_R": 60
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "midsize",
+    "paints": [
+      {
+        "baseColor": [
+          0,
+          0,
+          0,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 1,
+        "roughness": 1
+      },
+      {
+        "baseColor": [
+          0,
+          0,
+          0,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 1,
+        "roughness": 1
+      },
+      {
+        "baseColor": [
+          0,
+          0,
+          0,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 1,
+        "roughness": 1
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_6",
+      "soundscape_siren": "soundscape_siren_8"
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "sbr",
+    "paints": [
+      {
+        "baseColor": [
+          0.84,
+          0.84,
+          0.84,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.5,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.84,
+          0.84,
+          0.84,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.5,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.84,
+          0.84,
+          0.84,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.5,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "etk800",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_pompierfr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "citybus",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0900000036",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0900000036",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0900000036",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_12"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "etk800",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "BeamNG",
+    "model": "etkc",
+    "paints": [
+      {
+        "baseColor": [
+          0.819999993,
+          0.129999995,
+          0.129999995,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0299999993",
+        "metallic": "0.5",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.819999993,
+          0.129999995,
+          0.129999995,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0299999993",
+        "metallic": "0.5",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.819999993,
+          0.129999995,
+          0.129999995,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0299999993",
+        "metallic": "0.5",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "hatch",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_10",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "midsize",
+    "paints": [
+      {
+        "baseColor": [
+          0,
+          0,
+          0,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 1,
+        "roughness": 1
+      },
+      {
+        "baseColor": [
+          0,
+          0,
+          0,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 1,
+        "roughness": 1
+      },
+      {
+        "baseColor": [
+          0,
+          0,
+          0,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 1,
+        "roughness": 1
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_6",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "pickup",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.2
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.2
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.2
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {
+      "$camber_FR": 1,
+      "$tirepressure_F": 20,
+      "$tirepressure_R": 20
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "roamer",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "sbr",
+    "paints": [
+      {
+        "baseColor": [
+          0.84,
+          0.84,
+          0.84,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.5,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.84,
+          0.84,
+          0.84,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.5,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.84,
+          0.84,
+          0.84,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.5,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_siren_gendarmerie"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "sunburst",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "sunburst",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "etk800",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "midsize",
+    "paints": [
+      {
+        "baseColor": [
+          0,
+          0,
+          0,
+          2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0,
+        "metallic": 0,
+        "roughness": 0
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          0
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 1,
+        "roughness": 1
+      },
+      {
+        "baseColor": [
+          0,
+          0,
+          0,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 1,
+        "roughness": 1
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_6",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "sunburst",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "etk800",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "sbr",
+    "paints": [
+      {
+        "baseColor": [
+          0.84,
+          0.84,
+          0.84,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.5,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.84,
+          0.84,
+          0.84,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.5,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.84,
+          0.84,
+          0.84,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.5,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "ZS.968MU",
+    "model": "scintilla",
+    "paints": [
+      {
+        "baseColor": [
+          0.84,
+          0.84,
+          0.84,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.04,
+        "metallic": 0.5,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.84,
+          0.84,
+          0.84,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.04,
+        "metallic": 0.5,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.84,
+          0.84,
+          0.84,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.04,
+        "metallic": 0.5,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_4",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {
+      "$springheight_F_adaptive": 0.004,
+      "$springheight_R_adaptive": 0.002
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "etk800",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "citybus",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0900000036",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0900000036",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0900000036",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_12"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "sunburst",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "etk800",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "citybus",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0900000036",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0900000036",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0900000036",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_12"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "pickup",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.2
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.2
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.2
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {
+      "$camber_FR": 1,
+      "$tirepressure_F": 20,
+      "$tirepressure_R": 20
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "citybus",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0900000036",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0900000036",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0900000036",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_12",
+      "soundscape_siren": "soundscape_siren_8"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3"
+    },
+    "vars": {
+      "$tirepressure_F": 50,
+      "$tirepressure_R": 50
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "BeamNG",
+    "model": "etkc",
+    "paints": [
+      {
+        "baseColor": [
+          0.819999993,
+          0.129999995,
+          0.129999995,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0299999993",
+        "metallic": "0.5",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.819999993,
+          0.129999995,
+          0.129999995,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0299999993",
+        "metallic": "0.5",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.819999993,
+          0.129999995,
+          0.129999995,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0299999993",
+        "metallic": "0.5",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "pickup",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.2
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.2
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.2
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {
+      "$camber_FR": 1,
+      "$tirepressure_F": 20,
+      "$tirepressure_R": 20
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "citybus",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0900000036",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0900000036",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0900000036",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_12"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "roamer",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "roamer",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "etk800",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_samufr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "roamer",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.06,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_samufr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "sunburst",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0399999991",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_samufr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "etk800",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.03,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_samufr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "pigeon",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0599999987",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0599999987",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0599999987",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_8"
+    },
+    "vars": {
+      "$brakestrength": 1,
+      "$ffbstrength": 1,
+      "$fuel": 30,
+      "$steer_center": 0.999,
+      "$tirepressure_F": 25,
+      "$tirepressure_R": 25,
+      "$trackwidth_R": 0
+    }
+  },
+  {
+    "format": 2,
+    "model": "van",
+    "colors": [
+      [
+        1,
+        1,
+        1,
+        1.20000005
+      ],
+      [
+        1,
+        1,
+        1,
+        1.20000005
+      ],
+      [
+        1,
+        1,
+        1,
+        1.20000005
+      ]
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_uk_hilo",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "licenseName": "eg-C",
+    "vars": {
+      "$tirepressure_F": 50,
+      "$tirepressure_R": 50
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {
+      "$tirepressure_F": 50,
+      "$tirepressure_R": 50
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_siren_pasdurgencefr",
+      "soundscape_siren": "soundscape_siren_3"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_samufr"
+    },
+    "vars": {
+      "$tirepressure_F": 50,
+      "$tirepressure_R": 50
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {
+      "$tirepressure_F": 50,
+      "$tirepressure_R": 50
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.08,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.8,
+          0.1,
+          0.1,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.08,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.08,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_15"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {
+      "$tirepressure_F": 50,
+      "$tirepressure_R": 50
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.08,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.8,
+          0.1,
+          0.1,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.08,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.08,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_samufr"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_pompierfr"
+    },
+    "vars": {
+      "$tirepressure_F": 50,
+      "$tirepressure_R": 50
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {
+      "$tirepressure_F": 50,
+      "$tirepressure_R": 50
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_samufr"
+    },
+    "vars": {
+      "$tirepressure_F": 50,
+      "$tirepressure_R": 50
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {
+      "$tirepressure_F": 50,
+      "$tirepressure_R": 50
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {
+      "$tirepressure_F": 50,
+      "$tirepressure_R": 50
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_samufr"
+    },
+    "vars": {
+      "$tirepressure_F": 50,
+      "$tirepressure_R": 50
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.08,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.8,
+          0.1,
+          0.1,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.08,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.08,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.08,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.8,
+          0.1,
+          0.1,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.08,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.08,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_3"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_pompierfr"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_pompierfr"
+    },
+    "vars": {
+      "$tirepressure_F": 50,
+      "$tirepressure_R": 50
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {
+      "$tirepressure_F": 50,
+      "$tirepressure_R": 50
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_pompierfr"
+    },
+    "vars": {
+      "$tirepressure_F": 50,
+      "$tirepressure_R": 50
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {
+      "$tirepressure_F": 50,
+      "$tirepressure_R": 50
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.20000005
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {
+      "$tirepressure_F": 50,
+      "$tirepressure_R": 50
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "van",
+    "paints": [
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      },
+      {
+        "baseColor": [
+          0.800000012,
+          0.100000001,
+          0.100000001,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0",
+        "roughness": "1"
+      },
+      {
+        "baseColor": [
+          0.829999983,
+          0.829999983,
+          0.829999983,
+          1.20000005
+        ],
+        "clearcoat": "1",
+        "clearcoatRoughness": "0.0799999982",
+        "metallic": "0.300000012",
+        "roughness": "0.600000024"
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {
+      "$steer_center_F2": 0.0001,
+      "$tirepressure_F": 30,
+      "$tirepressure_R": 30
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "Deltatroopers",
+    "model": "pickup",
+    "paints": [
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.2
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.2
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          1,
+          1,
+          1,
+          1.2
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_3",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {
+      "$camber_FR": 1,
+      "$tirepressure_F": 20,
+      "$tirepressure_R": 20
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "BeamNG",
+    "model": "semi",
+    "paints": [
+      {
+        "baseColor": [
+          0.83,
+          0.83,
+          0.83,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.12,
+        "metallic": 0.3,
+        "roughness": 0.6
+      },
+      {
+        "baseColor": [
+          0.873051331,
+          0.805089663,
+          0.0269486692,
+          1.2
+        ],
+        "clearcoat": 1,
+        "clearcoatRoughness": 0.12,
+        "metallic": 0.3,
+        "roughness": 0.6
+      }
+    ],
+    "parts": {},
+    "vars": {
+      "$airbag_R2_pressure": 60
+    }
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_25"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_pompierfr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_samufr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_samufr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_pasdurgencefr"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_gendarmerie"
+    },
+    "vars": {}
+  },
+  {
+    "format": 2,
+    "licenseName": "eg-C",
+    "model": "vivace",
+    "paints": [
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      },
+      {
+        "baseColor": [
+          0.97,
+          0.98,
+          0.95,
+          1.3
+        ],
+        "clearcoat": 0.8,
+        "clearcoatRoughness": 0,
+        "metallic": 0.2,
+        "roughness": 0.5
+      }
+    ],
+    "parts": {
+      "soundscape_horn": "soundscape_horn_7",
+      "soundscape_siren": "soundscape_siren_pompierfr"
+    },
+    "vars": {}
+  }
+]

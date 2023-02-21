@@ -1,0 +1,10 @@
+{
+    "Configuration":"Véhicule tout usages Pompier",
+    "Transmission":"Automatic",
+    "Description":"Véhicules tout usages Pompier",
+    "Body Style":"Van",
+    "Drivetrain":"RWD",
+    "Performance Class":"3",
+    "default_color":"Pearl White",
+    "Config Type":"Service"
+}

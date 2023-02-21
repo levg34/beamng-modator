@@ -1,0 +1,10 @@
+{
+	"Configuration":"Gendarmerie",
+	"Transmission":"Automatic",
+	"Description":"Gendarmerie",
+	"Drivetrain":"FWD",
+	"Value":3800,
+	"Performance Class":"3",
+	"default_color":"Pearl White",
+	"Config Type":"Police"
+}

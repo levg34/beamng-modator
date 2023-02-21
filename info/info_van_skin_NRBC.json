@@ -1,0 +1,10 @@
+{
+    "Configuration":"NRBC Pompier",
+    "Transmission":"Automatic",
+    "Description":"Unité nucléaire radiologique biologique et chimique",
+    "Body Style":"Van",
+    "Drivetrain":"RWD",
+    "Performance Class":"3",
+    "default_color":"Pearl White",
+    "Config Type":"Service"
+}
