@@ -1,6 +1,6 @@
-import { Info } from './info-types'
+import { Info } from './classes/info-types'
 import configs from './config.json'
-import { PC } from './pc-types'
+import { PC } from './classes/pc-types'
 
 export type ConfigType = 'Gendarmerie' // | 'SAMU' | 'Pompier' | 'Police' | 'GenericPolice' | 'GenericPoliceFR'
 
