@@ -1,8 +1,8 @@
 import { listConfigs, listMods, listVehicles } from "../../lister"
 
-const TESTED_MOD = 'GendarmerieNationaleSkinPack'
-const TESTED_VEHICLE = 'etk800'
-const EXPECTED_CONFIG = {
+export const TESTED_MOD = 'GendarmerieNationaleSkinPack'
+export const TESTED_VEHICLE = 'etk800'
+export const EXPECTED_CONFIG = {
     pcFile: 'gendarmerie_new.pc',
     infoFile: 'info_gendarmerie_new.json',
     name: 'gendarmerie_new'
