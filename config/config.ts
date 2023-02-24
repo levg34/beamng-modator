@@ -4,18 +4,15 @@ import { writeInfoFile, writePCFile } from "../actioner/writer";
 import { Info } from "../types/info-types";
 import { PC } from "../types/pc-types";
 
-type ConfigInfo = {
-    info?: Info;
-    pc?: PC;
+interface ConfigInfo {
+    info: Info;
+    pc: PC;
 };
 
-export class Config {
+export class ConfigLoader {
     modName: string;
     vehicle: string;
     configName: string;
-    loaded: boolean = false
-    pc?: PC
-    info?: Info
 
     constructor(modName: string, vehicle: string, configName: string) {
         this.modName = modName
@@ -23,25 +20,42 @@ export class Config {
         this.configName = configName
     }
 
-    async load(): Promise<ConfigInfo> {
-        this.info = await readInfoFile(this.modName, this.vehicle, this.configName)
-        this.pc = await readPCFile(this.modName, this.vehicle, this.configName)
-        this.loaded = true
-        return {
-            pc: this.pc,
-            info: this.info
-        }
+    async load(): Promise<Config> {
+        const info = await readInfoFile(this.modName, this.vehicle, this.configName)
+        const pc = await readPCFile(this.modName, this.vehicle, this.configName)
+
+        return new Config({
+            configName: this.configName,
+            modName: this.modName,
+            vehicle: this.vehicle
+        }, {
+            pc,
+            info
+        })
+    }
+}
+
+interface Basic {
+    modName: string, vehicle: string, configName: string
+}
+
+export class Config implements ConfigInfo {
+    modName: string;
+    vehicle: string;
+    configName: string;
+    info: Info
+    pc: PC
+    constructor(basic: Basic, configInfo: ConfigInfo) {
+        this.modName = basic.modName
+        this.vehicle = basic.vehicle
+        this.configName = basic.configName
+        this.info = configInfo.info
+        this.pc = configInfo.pc
     }
 
     edit(newConfigType: ConfigType): ConfigInfo {
-        if (!this.loaded) throw Error('PC and Info not loaded!')
-        if (!this.info) throw Error('No info loaded')
         this.info = editInfo(this.info, newConfigType)
-        if (!this.pc) {
-            console.info('No pc loaded')
-        } else {
-            this.pc = editPC(this.pc, newConfigType)
-        }
+        this.pc = editPC(this.pc, newConfigType)
         return {
             pc: this.pc,
             info: this.info
@@ -49,13 +63,7 @@ export class Config {
     }
 
     async save(): Promise<void> {
-        if (!this.loaded) throw Error('PC and Info not loaded!')
-        if (!this.info) throw Error('No info loaded')
-        writeInfoFile(this.modName, this.vehicle, this.configName, this.info)
-        if (!this.pc) {
-            console.info('No pc loaded')
-        } else {
-            writePCFile(this.modName, this.vehicle, this.configName, this.pc)
-        }
+        await writeInfoFile(this.modName, this.vehicle, this.configName, this.info)
+        await writePCFile(this.modName, this.vehicle, this.configName, this.pc)
     }
 }
