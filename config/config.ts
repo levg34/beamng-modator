@@ -35,7 +35,7 @@ export class ConfigLoader {
     }
 }
 
-interface Basic {
+export interface Basic {
     modName: string
     vehicle: string
     configName: string
@@ -47,7 +47,7 @@ export class Config implements ConfigInfo {
     configName: string
     info: Info
     pc: PC
-    
+
     constructor(basic: Basic, configInfo: ConfigInfo) {
         this.modName = basic.modName
         this.vehicle = basic.vehicle
