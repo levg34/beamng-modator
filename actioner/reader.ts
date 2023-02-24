@@ -1,8 +1,8 @@
 import { jsonrepair } from 'jsonrepair'
 import fs from 'fs/promises'
-import { Info } from "./classes/info-types";
-import { PC } from "./classes/pc-types";
-import { getInfoFilePath, getPCFilePath } from './path-utils';
+import { Info } from "../classes/info-types";
+import { PC } from "../classes/pc-types";
+import { getInfoFilePath, getPCFilePath } from '../utils/path-utils';
 
 export async function readInfoFile(modName: string, vehicle: string, configName: string): Promise<Info> {
     const infoString = await fs.readFile(getInfoFilePath(modName, vehicle, configName), 'utf8')
