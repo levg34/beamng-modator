@@ -6,5 +6,97 @@
         "info": {
             "Config Type": "Police"
         }
+    },
+    "PoliceFR": {
+        "pc.parts": {
+            "soundscape_siren": "soundscape_siren_policefr"
+        },
+        "info": {
+            "Config Type": "Police"
+        }
+    },
+    "2TonesPolice": {
+        "pc.parts": {
+            "soundscape_siren": "soundscape_siren_25"
+        },
+        "info": {
+            "Config Type": "Police"
+        }
+    },
+    "TreeTonesFR": {
+        "pc.parts": {
+            "soundscape_siren": "soundscape_siren_pasdurgencefr"
+        },
+        "info": {
+            "Config Type": "Service"
+        }
+    },
+    "Ambulance3Tons": {
+        "pc.parts": {
+            "soundscape_siren": "soundscape_siren_pasdurgencefr"
+        },
+        "info": {
+            "Config Type": "Service"
+        }
+    },
+    "Pompiers": {
+        "pc.parts": {
+            "soundscape_siren": "soundscape_siren_pompierfr"
+        },
+        "info": {
+            "Config Type": "Service"
+        }
+    },
+    "GenericPoliceDE": {
+        "pc.parts": {
+            "soundscape_siren": "soundscape_siren_10"
+        },
+        "info": {
+            "Config Type": "Police"
+        }
+    },
+    "SAMU": {
+        "pc.parts": {
+            "soundscape_siren": "soundscape_siren_samufr"
+        },
+        "info": {
+            "Config Type": "Service"
+        }
+    },
+    "GenericPoliceWithSiren": {
+        "pc.parts": {
+            "soundscape_siren": "soundscape_siren_3"
+        },
+        "info": {
+            "Config Type": "Police"
+        }
+    },
+    "GenericPoliceWithoutSiren": {
+        "pc.parts": {},
+        "info": {
+            "Config Type": "Police"
+        }
+    },
+    "GenericPoliceWithSiren2": {
+        "pc.parts": {
+            "soundscape_siren": "soundscape_siren_8"
+        },
+        "info": {
+            "Config Type": "Police"
+        }
+    },
+    "Alternative2TonesPolice": {
+        "pc.parts": {
+            "soundscape_siren": "soundscape_siren_15"
+        },
+        "info": {
+            "Config Type": "Police"
+        }
+    },
+    "Service": {
+        "pc.parts": {},
+        "info": {
+            "Config Type": "Service"
+        }
     }
 }

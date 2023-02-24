@@ -2,7 +2,7 @@ import { Info } from '../types/info-types'
 import configs from '../config.json'
 import { PC } from '../types/pc-types'
 
-export type ConfigType = 'Gendarmerie' // | 'SAMU' | 'Pompier' | 'Police' | 'GenericPolice' | 'GenericPoliceFR'
+export type ConfigType = 'Gendarmerie' | 'PoliceFR' | '2TonesPolice' | 'TreeTonesFR' | 'Ambulance3Tons' | 'Pompiers' | 'GenericPoliceDE' | 'SAMU' | 'GenericPoliceWithSiren' | 'GenericPoliceWithoutSiren' | 'GenericPoliceWithSiren2' | 'Alternative2TonesPolice' | 'Service'
 
 type ConfigElement = {
     'pc.parts': Record<string, any>
