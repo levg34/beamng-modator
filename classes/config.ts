@@ -1,4 +1,4 @@
-import { ConfigType, editInfo, editPC } from '../actioner/editor'
+import { ConfigType, editInfo, editPC, getConfigTypes } from '../actioner/editor'
 import { readInfoFile, readPCFile } from '../actioner/reader'
 import { writeInfoFile, writePCFile } from '../actioner/writer'
 import { Info } from '../types/info-types'
@@ -68,5 +68,9 @@ export class Config implements ConfigInfo {
     async save(): Promise<void> {
         await writeInfoFile(this.modName, this.vehicle, this.configName, this.info)
         await writePCFile(this.modName, this.vehicle, this.configName, this.pc)
+    }
+
+    static getConfigTypes(): string[] {
+        return getConfigTypes()
     }
 }

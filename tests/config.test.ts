@@ -1,5 +1,5 @@
-import { Config, ConfigLoader } from "../config/config"
-import { EXPECTED_CONFIG, EXPECTED_CONFIG_OBJECT, EXPECTED_INFO, EXPECTED_INFO_POMPIERS, EXPECTED_PC, EXPECTED_PC_POMPIERS, TESTED_MOD, TESTED_VEHICLE } from "./test-constants"
+import { Config, ConfigLoader } from "../classes/config"
+import { EXPECTED_CONFIG, EXPECTED_CONFIG_OBJECT, EXPECTED_INFO_POMPIERS, EXPECTED_PC_POMPIERS, TESTED_MOD, TESTED_VEHICLE } from "./test-constants"
 
 describe('config component test', () => {
     const confLoader = new ConfigLoader(TESTED_MOD,TESTED_VEHICLE,EXPECTED_CONFIG.name)

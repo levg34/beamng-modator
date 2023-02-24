@@ -37,3 +37,7 @@ export function editPC(pc: PC, configType: ConfigType): PC {
         }
     }
 }
+
+export function getConfigTypes(): string[] {
+    return Object.keys(configs)
+}
