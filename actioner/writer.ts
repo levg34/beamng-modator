@@ -1,6 +1,6 @@
 import fs from 'fs/promises'
-import { Info } from "../classes/info-types"
-import { PC } from "../classes/pc-types"
+import { Info } from "../types/info-types"
+import { PC } from "../types/pc-types"
 import { getInfoFilePath, getPCFilePath } from '../utils/path-utils'
 
 export async function writeInfoFile(modName: string, vehicle: string, configName: string, info: Info): Promise<void> {

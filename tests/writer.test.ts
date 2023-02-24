@@ -1,8 +1,8 @@
 import fs from 'fs/promises'
 import { readInfoFile, readPCFile } from '../actioner/reader'
 import { writeInfoFile, writePCFile } from "../actioner/writer"
-import { Info } from '../classes/info-types'
-import { PC } from '../classes/pc-types'
+import { Info } from '../types/info-types'
+import { PC } from '../types/pc-types'
 import { getInfoFilePath, getPCFilePath, getVehiclesPath } from '../utils/path-utils'
 import { EXPECTED_CONFIG, TESTED_MOD, TESTED_VEHICLE } from './test-constants'
 
