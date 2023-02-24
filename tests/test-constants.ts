@@ -353,3 +353,11 @@ export const expectedPC1 = {
         "$tirepressure_R": 30
     }
 }
+
+export const TESTED_MOD = 'GendarmerieNationaleSkinPack'
+export const TESTED_VEHICLE = 'etk800'
+export const EXPECTED_CONFIG = {
+    pcFile: 'gendarmerie_new.pc',
+    infoFile: 'info_gendarmerie_new.json',
+    name: 'gendarmerie_new'
+}

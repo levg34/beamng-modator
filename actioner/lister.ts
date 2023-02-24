@@ -1,5 +1,5 @@
 import fs from 'fs/promises'
-import { getVehiclesPath, getVehiclePath, MODS_BASEPATH } from './path-utils'
+import { getVehiclesPath, getVehiclePath, MODS_BASEPATH } from '../utils/path-utils'
 
 export interface ConfigData {
     infoFile: string,

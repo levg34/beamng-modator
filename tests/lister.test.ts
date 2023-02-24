@@ -1,12 +1,5 @@
-import { listConfigs, listMods, listVehicles } from "../../lister"
-
-export const TESTED_MOD = 'GendarmerieNationaleSkinPack'
-export const TESTED_VEHICLE = 'etk800'
-export const EXPECTED_CONFIG = {
-    pcFile: 'gendarmerie_new.pc',
-    infoFile: 'info_gendarmerie_new.json',
-    name: 'gendarmerie_new'
-}
+import { listConfigs, listMods, listVehicles } from "../actioner/lister"
+import { EXPECTED_CONFIG, TESTED_MOD, TESTED_VEHICLE } from "./test-constants"
 
 describe('Test mod lister', () => {
     it('should list correctly the mods', async () => {

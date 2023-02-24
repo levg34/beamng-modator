@@ -1,5 +1,5 @@
-import { getInfoFilePath, getModPath, getPCFilePath, getVehiclePath, getVehiclesPath } from "../path-utils"
-import { EXPECTED_CONFIG, TESTED_MOD, TESTED_VEHICLE } from "./lister/lister.test"
+import { getInfoFilePath, getModPath, getPCFilePath, getVehiclePath, getVehiclesPath } from "../utils/path-utils"
+import { EXPECTED_CONFIG, TESTED_MOD, TESTED_VEHICLE } from "./test-constants"
 
 describe('Test path utils', () => {
     test('getModPath method', () => {
