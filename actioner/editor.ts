@@ -1,5 +1,5 @@
 import { Info } from '../types/info-types'
-import configs from '../config.json'
+import configs from '../config/config.json'
 import { PC } from '../types/pc-types'
 
 export type ConfigType = 'Gendarmerie' | 'PoliceFR' | '2TonesPolice' | 'TreeTonesFR' | 'Ambulance3Tons' | 'Pompiers' | 'GenericPoliceDE' | 'SAMU' | 'GenericPoliceWithSiren' | 'GenericPoliceWithoutSiren' | 'GenericPoliceWithSiren2' | 'Alternative2TonesPolice' | 'Service'
