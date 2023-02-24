@@ -1,18 +1,18 @@
-import { ConfigType, editInfo, editPC } from "../actioner/editor";
-import { readInfoFile, readPCFile } from "../actioner/reader";
-import { writeInfoFile, writePCFile } from "../actioner/writer";
-import { Info } from "../types/info-types";
-import { PC } from "../types/pc-types";
+import { ConfigType, editInfo, editPC } from '../actioner/editor'
+import { readInfoFile, readPCFile } from '../actioner/reader'
+import { writeInfoFile, writePCFile } from '../actioner/writer'
+import { Info } from '../types/info-types'
+import { PC } from '../types/pc-types'
 
 interface ConfigInfo {
-    info: Info;
-    pc: PC;
-};
+    info: Info
+    pc: PC
+}
 
 export class ConfigLoader {
-    modName: string;
-    vehicle: string;
-    configName: string;
+    modName: string
+    vehicle: string
+    configName: string
 
     constructor(modName: string, vehicle: string, configName: string) {
         this.modName = modName
@@ -36,15 +36,18 @@ export class ConfigLoader {
 }
 
 interface Basic {
-    modName: string, vehicle: string, configName: string
+    modName: string
+    vehicle: string
+    configName: string
 }
 
 export class Config implements ConfigInfo {
-    modName: string;
-    vehicle: string;
-    configName: string;
+    modName: string
+    vehicle: string
+    configName: string
     info: Info
     pc: PC
+    
     constructor(basic: Basic, configInfo: ConfigInfo) {
         this.modName = basic.modName
         this.vehicle = basic.vehicle
