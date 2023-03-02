@@ -19,3 +19,8 @@ export async function createTestZip() {
 export async function deleteTestZip() {
     await fs.rm(testFolder, { force: true, recursive: true })
 }
+
+export async function listTestContent(relativePath?: string): Promise<string[]> {
+    const folderContent = await fs.readdir(testFolder+(relativePath? '/'+relativePath : ''))
+    return folderContent
+}

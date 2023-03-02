@@ -1,5 +1,5 @@
 import { unzip } from "../actioner/zipper"
-import { createTestZip, deleteTestZip, testZip } from "./test-utils"
+import { createTestZip, deleteTestZip, listTestContent, testZip } from "./test-utils"
 
 describe('Test zipper utility', () => {
     beforeAll(async () => {
@@ -10,8 +10,16 @@ describe('Test zipper utility', () => {
     it('shoud unzip a zip file correctly', async () => {
         // Check the name
         await unzip(testZip)
+        const resFolder = await listTestContent()
+        expect(resFolder).toEqual([
+            'test',
+            'test.zip'
+        ])
+    })
+    it('shoud contain the content under the root folder', async () => {
         // Check the content
-        
+        const resFolder = await listTestContent('test')
+        expect(resFolder).toEqual(["folder","test.txt"])
     })
     it('shoud zip a folder correctly', async () => {
         // Check the name
