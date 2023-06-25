@@ -6,7 +6,7 @@ import { PC } from '../types/pc-types'
 
 interface ConfigInfo {
     info: Info
-    pc: PC
+    pc?: PC
 }
 
 export class ConfigLoader {
@@ -22,7 +22,12 @@ export class ConfigLoader {
 
     async load(): Promise<Config> {
         const info = await readInfoFile(this.modName, this.vehicle, this.configName)
-        const pc = await readPCFile(this.modName, this.vehicle, this.configName)
+        let pc
+        try {
+            pc = await readPCFile(this.modName, this.vehicle, this.configName)
+        } catch (e) {
+            console.info(`No PC file found for mod ${this.modName}, vehicle ${this.vehicle}, config ${this.configName}.`)
+        }
 
         return new Config({
             configName: this.configName,
@@ -46,7 +51,7 @@ export class Config implements ConfigInfo {
     vehicle: string
     configName: string
     info: Info
-    pc: PC
+    pc?: PC
 
     constructor(basic: Basic, configInfo: ConfigInfo) {
         this.modName = basic.modName
@@ -58,7 +63,9 @@ export class Config implements ConfigInfo {
 
     edit(newConfigType: ConfigType): ConfigInfo {
         this.info = editInfo(this.info, newConfigType)
-        this.pc = editPC(this.pc, newConfigType)
+        if (this.pc) {
+            this.pc = editPC(this.pc, newConfigType)
+        }
         return {
             pc: this.pc,
             info: this.info
@@ -67,7 +74,9 @@ export class Config implements ConfigInfo {
 
     async save(): Promise<void> {
         await writeInfoFile(this.modName, this.vehicle, this.configName, this.info)
-        await writePCFile(this.modName, this.vehicle, this.configName, this.pc)
+        if (this.pc) {
+            await writePCFile(this.modName, this.vehicle, this.configName, this.pc)
+        }
     }
 
     static getConfigTypes(): string[] {

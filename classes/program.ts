@@ -15,7 +15,7 @@ interface Vehicle {
 interface Config {
     configName: string
     info: Info
-    pc: PC
+    pc?: PC
 }
 
 export class ProgramCreator {
