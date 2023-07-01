@@ -77,13 +77,11 @@ describe('ProgramCreator', () => {
                         configs: [
                             {
                                 configName: 'test-config-1',
-                                info: { name: 'Test Config 1' },
-                                pc: { parts: { engine: 'test-engine-1' } },
+                                newConfig: '2TonesPolice'
                             },
                             {
                                 configName: 'test-config-2',
-                                info: { name: 'Test Config 2' },
-                                pc: { parts: { engine: 'test-engine-2' } },
+                                newConfig: '2TonesPolice'
                             },
                         ],
                     },
@@ -92,13 +90,11 @@ describe('ProgramCreator', () => {
                         configs: [
                             {
                                 configName: 'test-config-3',
-                                info: { name: 'Test Config 3' },
-                                pc: { parts: { engine: 'test-engine-3' } },
+                                newConfig: '2TonesPolice'
                             },
                             {
                                 configName: 'test-config-4',
-                                info: { name: 'Test Config 4' },
-                                pc: { parts: { engine: 'test-engine-4' } },
+                                newConfig: '2TonesPolice'
                             },
                         ],
                     },
@@ -107,17 +103,17 @@ describe('ProgramCreator', () => {
         })
     })
 
-    describe('getJSON', () => {
-        test('should return a JSON string matching the program', async () => {
-            const programCreator = new ProgramCreator(mockMod as unknown as Mod)
+    // describe('getJSON', () => {
+    //     test('should return a JSON string matching the program', async () => {
+    //         const programCreator = new ProgramCreator(mockMod as unknown as Mod)
 
-            await programCreator.createProgram()
+    //         await programCreator.createProgram()
 
-            const json = programCreator.getJSON()
+    //         const json = programCreator.getJSON()
 
-            expect(() => JSON.parse(json)).not.toThrow()
+    //         expect(() => JSON.parse(json)).not.toThrow()
 
-            expect(JSON.parse(json)).toEqual(programCreator.program)
-        })
-    })
+    //         expect(JSON.parse(json)).toEqual(programCreator.program)
+    //     })
+    // })
 })

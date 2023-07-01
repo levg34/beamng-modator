@@ -1,6 +1,7 @@
-import { Info } from '../types/info-types'
-import { PC } from '../types/pc-types'
+import { ConfigType } from '../actioner/editor'
+import { ConfigLoader } from './config'
 import { Mod } from './mod'
+import { Vehicle as VehicleClass } from './vehicle'
 
 interface Program {
     modName: string
@@ -14,8 +15,7 @@ interface Vehicle {
 
 interface Config {
     configName: string
-    info: Info
-    pc?: PC
+    newConfig: ConfigType
 }
 
 export class ProgramCreator {
@@ -31,38 +31,38 @@ export class ProgramCreator {
     }
 
     async createProgram(): Promise<Program> {
-        let vehicles = await this.mod.getVehicles()
-
-        for (let vehicle of vehicles) {
-
-            let vehicleObj: Vehicle = {
+        const vehicles = await this.mod.getVehicles()
+        for (const vehicle of vehicles) {
+            const programVehicle: Vehicle = {
                 vehicle: vehicle.vehicle,
                 configs: []
             }
-
-            let configLoaders = await vehicle.getConfigLoaders()
-
-            for (let configLoader of configLoaders) {
-                let config = await configLoader.load()
-
-                let configObj: Config = {
+            const configLoaders = await vehicle.getConfigLoaders()
+            for (const configLoader of configLoaders) {
+                const config = await configLoader.load()
+                const programConfig: Config = {
                     configName: config.configName,
-                    info: config.info,
-                    pc: config.pc
+                    newConfig: '2TonesPolice'
                 }
-
-                vehicleObj.configs.push(configObj)
+                programVehicle.configs.push(programConfig)
             }
-
-            this.program.vehicles.push(vehicleObj)
+            this.program.vehicles.push(programVehicle)
         }
-
         return this.program
     }
-
-    getJSON(): string {
-        let json = JSON.stringify(this.program)
-
-        return json
-    }
+    
+    async applyProgram(program: Program): Promise<void> {
+        if (program.modName !== this.mod.modName) {
+            throw new Error(`Le nom du mod du programme ($ {program.modName}) ne correspond pas au nom du mod de l'instance ($ {this.mod.modName}).`)
+        }
+        for (const programVehicle of program.vehicles) {
+            for (const programConfig of programVehicle.configs) {
+                const configLoader = new ConfigLoader(this.mod.modName, programVehicle.vehicle, programConfig.configName)
+                const config = await configLoader.load()
+                const configInfo = config.edit(programConfig.newConfig)
+                console.log(configInfo)
+                await config.save()
+            }
+        }
+    }    
 }
