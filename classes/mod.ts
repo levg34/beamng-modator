@@ -1,4 +1,6 @@
 import { listVehicles } from "../actioner/lister"
+import { unzip, zip } from "../actioner/zipper-v2"
+import { getModPath } from "../utils/path-utils"
 import { Vehicle } from "./vehicle"
 
 export class Mod {
@@ -16,5 +18,13 @@ export class Mod {
     async getVehicles(): Promise<Vehicle[]> {
         const vehicleList = await this.listVehicles()
         return vehicleList.map(v => new Vehicle(this.modName, v))
+    }
+
+    async unzip(): Promise<void> {
+        await unzip(getModPath(this.modName) + '.zip', getModPath(this.modName))
+    }
+
+    async zip(): Promise<void> {
+        await zip(getModPath(this.modName), getModPath(this.modName) + '.zip')
     }
 }
