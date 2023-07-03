@@ -1,4 +1,4 @@
-import { listVehicles } from "../actioner/lister"
+import { listMods, listVehicles } from "../actioner/lister"
 import { unzip, zip } from "../actioner/zipper"
 import { getModPath } from "../utils/path-utils"
 import { Vehicle } from "./vehicle"
@@ -26,5 +26,9 @@ export class Mod {
 
     async zip(): Promise<void> {
         await zip(getModPath(this.modName), getModPath(this.modName) + '.zip')
+    }
+
+    static async listMods(): Promise<string[]> {
+        return await listMods()
     }
 }

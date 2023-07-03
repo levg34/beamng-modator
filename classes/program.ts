@@ -60,7 +60,6 @@ export class ProgramCreator {
                 const configLoader = new ConfigLoader(this.mod.modName, programVehicle.vehicle, programConfig.configName)
                 const config = await configLoader.load()
                 const configInfo = config.edit(programConfig.newConfig)
-                console.log(configInfo)
                 await config.save()
             }
         }
