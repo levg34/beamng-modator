@@ -1,5 +1,5 @@
 import { listVehicles } from "../actioner/lister"
-import { unzip, zip } from "../actioner/zipper-v2"
+import { unzip, zip } from "../actioner/zipper"
 import { getModPath } from "../utils/path-utils"
 import { Vehicle } from "./vehicle"
 

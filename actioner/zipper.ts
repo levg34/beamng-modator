@@ -1,9 +1,12 @@
-import { execFileSync } from 'child_process'
+import AdmZip = require('adm-zip')
 
-export async function unzip(zipFile: string): Promise<void> {
-    execFileSync('unzip', [zipFile, '-d', zipFile.replace('.zip', '')])
+export async function unzip(zipName: string, destFolder: string): Promise<void> {
+    const zip = new AdmZip(zipName)
+    zip.extractAllTo(destFolder, true)
 }
 
-export async function zip(folder: string): Promise<void> {
-    //
+export async function zip(folderName: string, zipName: string): Promise<void> {
+    const zip = new AdmZip()
+    zip.addLocalFolder(folderName)
+    zip.writeZip(zipName)
 }
