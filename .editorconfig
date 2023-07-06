@@ -1,0 +1,43 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+# JS and TS files
+[*.{js,ts}]
+indent_style = space
+indent_size = 4
+quote_type = single
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# JSX and TSX files
+[*.{jsx,tsx}]
+indent_style = space
+indent_size = 2
+quote_type = auto # use single quotes in JS/TS, but double quotes in JSX/TSX attributes
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# HTML files
+[*.html]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# No semicolons
+[*.js]
+semi = never
+
+[*.ts]
+semi = never
+
+[*.jsx]
+semi = never
+
+[*.tsx]
+semi = never

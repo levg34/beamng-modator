@@ -1,0 +1,11 @@
+{
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    //   "editor.defaultFormatter": "",
+    "editor.formatOnSave": true,
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single",
+    "javascript.format.semicolons": "remove",
+    "typescript.format.semicolons": "remove"
+}
