@@ -15,7 +15,7 @@ interface Vehicle {
 
 interface Config {
     configName: string
-    newConfig: ConfigType
+    newConfig: ConfigType | null
 }
 
 export class ProgramCreator {
@@ -64,7 +64,7 @@ export class ProgramCreator {
                 const config = await configLoader.load()
                 const programConfig: Config = {
                     configName: config.configName,
-                    newConfig: this.guessConfig(config.configName) as ConfigType
+                    newConfig: this.guessConfig(config.configName)
                 }
                 programVehicle.configs.push(programConfig)
             }
@@ -79,10 +79,12 @@ export class ProgramCreator {
         }
         for (const programVehicle of program.vehicles) {
             for (const programConfig of programVehicle.configs) {
-                const configLoader = new ConfigLoader(this.mod.modName, programVehicle.vehicle, programConfig.configName)
-                const config = await configLoader.load()
-                const configInfo = config.edit(programConfig.newConfig)
-                await config.save()
+                if (programConfig.newConfig !== null) {
+                    const configLoader = new ConfigLoader(this.mod.modName, programVehicle.vehicle, programConfig.configName)
+                    const config = await configLoader.load()
+                    const configInfo = config.edit(programConfig.newConfig)
+                    await config.save()
+                }
             }
         }
     }
