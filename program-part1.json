@@ -1,0 +1,299 @@
+{
+    "modName": "French_Emergency_Skin_Pack_Part1",
+    "vehicles": [
+        {
+            "vehicle": "art",
+            "configs": []
+        },
+        {
+            "vehicle": "bastion",
+            "configs": [
+                {
+                    "configName": "FPD",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "GENDARME",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "POMPIER",
+                    "newConfig": "Pompiers"
+                }
+            ]
+        },
+        {
+            "vehicle": "boxutility",
+            "configs": []
+        },
+        {
+            "vehicle": "citybus",
+            "configs": [
+                {
+                    "configName": "LABO",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "SAMU",
+                    "newConfig": "SAMU"
+                },
+                {
+                    "configName": "administration",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "flixbus",
+                    "newConfig": null
+                },
+                {
+                    "configName": "isilines",
+                    "newConfig": null
+                },
+                {
+                    "configName": "ouibus",
+                    "newConfig": null
+                },
+                {
+                    "configName": "police",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "ratp",
+                    "newConfig": null
+                }
+            ]
+        },
+        {
+            "vehicle": "covet",
+            "configs": [
+                {
+                    "configName": "FPD",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "gendarme",
+                    "newConfig": "Gendarmerie"
+                }
+            ]
+        },
+        {
+            "vehicle": "dryvan",
+            "configs": [
+                {
+                    "configName": "dryvan_skin_Police",
+                    "newConfig": "PoliceFR"
+                }
+            ]
+        },
+        {
+            "vehicle": "etk6000",
+            "configs": [
+                {
+                    "configName": "BRI",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "Commandement",
+                    "newConfig": "Pompiers"
+                },
+                {
+                    "configName": "Enedis",
+                    "newConfig": null
+                },
+                {
+                    "configName": "Inmate",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "Protection_Civile",
+                    "newConfig": "SAMU"
+                },
+                {
+                    "configName": "SDIS",
+                    "newConfig": "Pompiers"
+                }
+            ]
+        },
+        {
+            "vehicle": "etk800",
+            "configs": [
+                {
+                    "configName": "BAC",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "FPD",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "SAMU",
+                    "newConfig": "SAMU"
+                },
+                {
+                    "configName": "ambutaxi",
+                    "newConfig": "Ambulance3Tons"
+                },
+                {
+                    "configName": "banalisee",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "douane",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "fdmed",
+                    "newConfig": "Pompiers"
+                },
+                {
+                    "configName": "gendarme",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "gendarme2",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "gendarmecampagne",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "gendarmerie",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "municipale",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "sosmed",
+                    "newConfig": "SAMU"
+                },
+                {
+                    "configName": "sosmedecins",
+                    "newConfig": "SAMU"
+                }
+            ]
+        },
+        {
+            "vehicle": "etkc",
+            "configs": [
+                {
+                    "configName": "gendarme",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "prefecturepolice",
+                    "newConfig": "PoliceFR"
+                }
+            ]
+        },
+        {
+            "vehicle": "etki",
+            "configs": [
+                {
+                    "configName": "FPD",
+                    "newConfig": "PoliceFR"
+                }
+            ]
+        },
+        {
+            "vehicle": "euvan",
+            "configs": []
+        },
+        {
+            "vehicle": "fullsize",
+            "configs": [
+                {
+                    "configName": "ASVP",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "FPD",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "ambutaxi",
+                    "newConfig": "Ambulance3Tons"
+                },
+                {
+                    "configName": "convoi",
+                    "newConfig": "Service"
+                }
+            ]
+        },
+        {
+            "vehicle": "hopper",
+            "configs": [
+                {
+                    "configName": "ONF",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "hopper_skin_gendarmerie_montagne",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "hopper_skin_gendarmerie_tt",
+                    "newConfig": "Gendarmerie"
+                }
+            ]
+        },
+        {
+            "vehicle": "legran",
+            "configs": [
+                {
+                    "configName": "FPD",
+                    "newConfig": "PoliceFR"
+                }
+            ]
+        },
+        {
+            "vehicle": "man",
+            "configs": [
+                {
+                    "configName": "Police National",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "SAUR",
+                    "newConfig": null
+                }
+            ]
+        },
+        {
+            "vehicle": "midsize",
+            "configs": [
+                {
+                    "configName": "FPD",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "douane",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "ecf",
+                    "newConfig": null
+                },
+                {
+                    "configName": "gendarme",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "gendarmecampagne",
+                    "newConfig": "Gendarmerie"
+                }
+            ]
+        },
+        {
+            "vehicle": "midtruck",
+            "configs": [
+                {
+                    "configName": "midtruck",
+                    "newConfig": null
+                }
+            ]
+        }
+    ]
+}

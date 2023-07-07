@@ -1,0 +1,535 @@
+{
+    "modName": "French_Emergency_Skin_Pack_Part2",
+    "vehicles": [
+        {
+            "vehicle": "pessima",
+            "configs": [
+                {
+                    "configName": "FPD",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "ambutaxi",
+                    "newConfig": "Ambulance3Tons"
+                }
+            ]
+        },
+        {
+            "vehicle": "pickup",
+            "configs": [
+                {
+                    "configName": "POMPIER_AEROPORT",
+                    "newConfig": "Pompiers"
+                },
+                {
+                    "configName": "gendarme",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "pickup_skin_DIR",
+                    "newConfig": "Service"
+                },
+                {
+                    "configName": "raid",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "vigipirate",
+                    "newConfig": null
+                }
+            ]
+        },
+        {
+            "vehicle": "pigeon",
+            "configs": [
+                {
+                    "configName": "town",
+                    "newConfig": null
+                }
+            ]
+        },
+        {
+            "vehicle": "roamer",
+            "configs": [
+                {
+                    "configName": "FPD",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "SAMU",
+                    "newConfig": "SAMU"
+                },
+                {
+                    "configName": "SDIS",
+                    "newConfig": "Pompiers"
+                },
+                {
+                    "configName": "commandement",
+                    "newConfig": "Pompiers"
+                },
+                {
+                    "configName": "croixrouge",
+                    "newConfig": "SAMU"
+                },
+                {
+                    "configName": "gendarme",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "roamer_skin_POLICE_NATIONALE_2020",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "roamer_skin_POLICE_RURALE",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "sosmedecins",
+                    "newConfig": "SAMU"
+                }
+            ]
+        },
+        {
+            "vehicle": "sbr",
+            "configs": [
+                {
+                    "configName": "epolice",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "gendarme",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "gendarmerie",
+                    "newConfig": "Gendarmerie"
+                }
+            ]
+        },
+        {
+            "vehicle": "scintilla",
+            "configs": [
+                {
+                    "configName": "gendarmerie",
+                    "newConfig": "Gendarmerie"
+                }
+            ]
+        },
+        {
+            "vehicle": "semi",
+            "configs": [
+                {
+                    "configName": "dir",
+                    "newConfig": "Service"
+                },
+                {
+                    "configName": "vinci",
+                    "newConfig": null
+                }
+            ]
+        },
+        {
+            "vehicle": "sunburst",
+            "configs": [
+                {
+                    "configName": "FPD",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "asvp",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "douane",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "gendarme",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "gendarme2",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "gendarmecampagne",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "municipale",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "sosmed",
+                    "newConfig": "SAMU"
+                }
+            ]
+        },
+        {
+            "vehicle": "van",
+            "configs": [
+                {
+                    "configName": "BCA",
+                    "newConfig": "SAMU"
+                },
+                {
+                    "configName": "CRS",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "DIR",
+                    "newConfig": "Service"
+                },
+                {
+                    "configName": "DPDGROUP",
+                    "newConfig": null
+                },
+                {
+                    "configName": "FPD",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "GRDF",
+                    "newConfig": null
+                },
+                {
+                    "configName": "ICG",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "PNCRS",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "Protection civile logistique",
+                    "newConfig": "SAMU"
+                },
+                {
+                    "configName": "SAMUvan",
+                    "newConfig": "SAMU"
+                },
+                {
+                    "configName": "VSAVan",
+                    "newConfig": "Pompiers"
+                },
+                {
+                    "configName": "chrono",
+                    "newConfig": null
+                },
+                {
+                    "configName": "croixrouge",
+                    "newConfig": "SAMU"
+                },
+                {
+                    "configName": "douane",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "gendarme",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "inmate",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "poste",
+                    "newConfig": null
+                },
+                {
+                    "configName": "postebox",
+                    "newConfig": null
+                },
+                {
+                    "configName": "sapvan",
+                    "newConfig": "Pompiers"
+                },
+                {
+                    "configName": "ukambulance",
+                    "newConfig": "Ambulance3Tons"
+                },
+                {
+                    "configName": "van_skin_BRI",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "van_skin_CONVOIS",
+                    "newConfig": null
+                },
+                {
+                    "configName": "van_skin_Croix_Rouge",
+                    "newConfig": "SAMU"
+                },
+                {
+                    "configName": "van_skin_DIR_Camion",
+                    "newConfig": "Service"
+                },
+                {
+                    "configName": "van_skin_ENEDIS",
+                    "newConfig": null
+                },
+                {
+                    "configName": "van_skin_ENTRETIENT_PISTE",
+                    "newConfig": null
+                },
+                {
+                    "configName": "van_skin_GARDE",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "van_skin_GIGN",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "van_skin_GRDF_B",
+                    "newConfig": null
+                },
+                {
+                    "configName": "van_skin_JUSSIEU",
+                    "newConfig": "SAMU"
+                },
+                {
+                    "configName": "van_skin_NRBC",
+                    "newConfig": "Pompiers"
+                },
+                {
+                    "configName": "van_skin_PN",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "van_skin_Protection_civile_camion",
+                    "newConfig": "SAMU"
+                },
+                {
+                    "configName": "van_skin_RAID",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "van_skin_RATP",
+                    "newConfig": null
+                },
+                {
+                    "configName": "van_skin_RTE",
+                    "newConfig": null
+                },
+                {
+                    "configName": "van_skin_SAMU",
+                    "newConfig": "SAMU"
+                },
+                {
+                    "configName": "van_skin_SANEF",
+                    "newConfig": null
+                },
+                {
+                    "configName": "van_skin_SAUR",
+                    "newConfig": null
+                },
+                {
+                    "configName": "van_skin_SECURITE_AEROPORT",
+                    "newConfig": "2TonesPolice"
+                },
+                {
+                    "configName": "van_skin_SNCF",
+                    "newConfig": null
+                },
+                {
+                    "configName": "van_skin_SNSM",
+                    "newConfig": null
+                },
+                {
+                    "configName": "van_skin_VINCI",
+                    "newConfig": null
+                },
+                {
+                    "configName": "van_skin_VSAV",
+                    "newConfig": "Pompiers"
+                },
+                {
+                    "configName": "van_skin_VSR_GRDF",
+                    "newConfig": null
+                },
+                {
+                    "configName": "van_skin_brinks",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "van_skin_commandement",
+                    "newConfig": "Pompiers"
+                },
+                {
+                    "configName": "van_skin_deminage",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "van_skin_inmate2",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "veolia",
+                    "newConfig": null
+                }
+            ]
+        },
+        {
+            "vehicle": "vivace",
+            "configs": [
+                {
+                    "configName": "FFSS",
+                    "newConfig": "Ambulance3Tons"
+                },
+                {
+                    "configName": "FPD",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "GendarmerieFPD",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "MunicipaleFPD",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "vivace_skin_ASVP",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "vivace_skin_CIRCULATION",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "vivace_skin_CONVOIS",
+                    "newConfig": null
+                },
+                {
+                    "configName": "vivace_skin_DIR",
+                    "newConfig": "Service"
+                },
+                {
+                    "configName": "vivace_skin_DOUANE",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "vivace_skin_DOUANE_SPECIFIQUE",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "vivace_skin_ENEDIS",
+                    "newConfig": null
+                },
+                {
+                    "configName": "vivace_skin_GARDE",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "vivace_skin_GRDF",
+                    "newConfig": null
+                },
+                {
+                    "configName": "vivace_skin_GRDF_URGENCE_GAZ",
+                    "newConfig": "Ambulance3Tons"
+                },
+                {
+                    "configName": "vivace_skin_PAF",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "vivace_skin_POLICE_INTERCOMMUNALE",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "vivace_skin_POLICE_NATIONALE_2020",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "vivace_skin_POLICE_RURALE",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "vivace_skin_Pompier_Medecins",
+                    "newConfig": "Pompiers"
+                },
+                {
+                    "configName": "vivace_skin_Protection_Civile",
+                    "newConfig": "SAMU"
+                },
+                {
+                    "configName": "vivace_skin_SAMU",
+                    "newConfig": "SAMU"
+                },
+                {
+                    "configName": "vivace_skin_SANEF",
+                    "newConfig": null
+                },
+                {
+                    "configName": "vivace_skin_SFR",
+                    "newConfig": null
+                },
+                {
+                    "configName": "vivace_skin_SNCF",
+                    "newConfig": null
+                },
+                {
+                    "configName": "vivace_skin_TELMEDECINE",
+                    "newConfig": "Ambulance3Tons"
+                },
+                {
+                    "configName": "vivace_skin_UMHA",
+                    "newConfig": "Ambulance3Tons"
+                },
+                {
+                    "configName": "vivace_skin_URGENCE_GREFFONS",
+                    "newConfig": "SAMU"
+                },
+                {
+                    "configName": "vivace_skin_VINCI",
+                    "newConfig": null
+                },
+                {
+                    "configName": "vivace_skin_VLCG",
+                    "newConfig": "Pompiers"
+                },
+                {
+                    "configName": "vivace_skin_VPILOTE",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "vivace_skin_VRM",
+                    "newConfig": "Pompiers"
+                },
+                {
+                    "configName": "vivace_skin_bouygue",
+                    "newConfig": null
+                },
+                {
+                    "configName": "vivace_skin_croix_rouge",
+                    "newConfig": "SAMU"
+                },
+                {
+                    "configName": "vivace_skin_free",
+                    "newConfig": null
+                },
+                {
+                    "configName": "vivace_skin_gendarme_montagne",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "vivace_skin_gendarmerieaero",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "vivace_skin_orange",
+                    "newConfig": null
+                },
+                {
+                    "configName": "vivace_skin_police_metro",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "vivace_skin_police_monaco",
+                    "newConfig": "PoliceFR"
+                }
+            ]
+        }
+    ]
+}

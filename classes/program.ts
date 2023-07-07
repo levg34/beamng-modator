@@ -30,6 +30,28 @@ export class ProgramCreator {
         }
     }
 
+    private guessConfig(configName: string): ConfigType | null {
+        function configSimilarTo(text: string): boolean {
+            return configName.toLowerCase().includes(text)
+        }
+        if (configSimilarTo('gendarme') || configSimilarTo('gign') || configSimilarTo('garde')) {
+            return 'Gendarmerie'
+        }
+        if (configSimilarTo('fpd') || configSimilarTo('police') || configSimilarTo('crs') || configSimilarTo('bri') || configSimilarTo('douane') || configSimilarTo('asvp') || configSimilarTo('municipale') || configSimilarTo('bac') || configSimilarTo('paf')  || configSimilarTo('raid') || configSimilarTo('pn')) {
+            return 'PoliceFR'
+        }
+        if (configSimilarTo('pompier') || configSimilarTo('vsav') || configSimilarTo('sdis')) {
+            return 'Pompiers'
+        }
+        if (configSimilarTo('samu') || configSimilarTo('croix') || configSimilarTo('sosmed') || configSimilarTo('civile')) {
+            return 'SAMU'
+        }
+        if (configSimilarTo('ambu')) {
+            return 'Ambulance3Tons'
+        }
+        return null
+    }
+
     async createProgram(): Promise<Program> {
         const vehicles = await this.mod.getVehicles()
         for (const vehicle of vehicles) {
@@ -42,7 +64,7 @@ export class ProgramCreator {
                 const config = await configLoader.load()
                 const programConfig: Config = {
                     configName: config.configName,
-                    newConfig: '2TonesPolice'
+                    newConfig: this.guessConfig(config.configName) as ConfigType
                 }
                 programVehicle.configs.push(programConfig)
             }
@@ -50,7 +72,7 @@ export class ProgramCreator {
         }
         return this.program
     }
-    
+
     async applyProgram(program: Program): Promise<void> {
         if (program.modName !== this.mod.modName) {
             throw new Error(`Le nom du mod du programme ($ {program.modName}) ne correspond pas au nom du mod de l'instance ($ {this.mod.modName}).`)
@@ -63,5 +85,5 @@ export class ProgramCreator {
                 await config.save()
             }
         }
-    }    
+    }
 }
