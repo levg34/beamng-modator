@@ -1,0 +1,85 @@
+{
+    "modName": "GendarmerieNationaleSkinPack",
+    "vehicles": [
+        {
+            "vehicle": "etk800",
+            "configs": [
+                {
+                    "configName": "gendarmerie_new",
+                    "newConfig": "Gendarmerie"
+                }
+            ]
+        },
+        {
+            "vehicle": "etkc",
+            "configs": [
+                {
+                    "configName": "gendarmerie",
+                    "newConfig": "Gendarmerie"
+                }
+            ]
+        },
+        {
+            "vehicle": "hopper",
+            "configs": [
+                {
+                    "configName": "Gendarmerie",
+                    "newConfig": "Gendarmerie"
+                }
+            ]
+        },
+        {
+            "vehicle": "midtruck",
+            "configs": [
+                {
+                    "configName": "GN",
+                    "newConfig": "Gendarmerie"
+                }
+            ]
+        },
+        {
+            "vehicle": "pessima",
+            "configs": [
+                {
+                    "configName": "gendarmerie",
+                    "newConfig": "Gendarmerie"
+                }
+            ]
+        },
+        {
+            "vehicle": "scintilla",
+            "configs": [
+                {
+                    "configName": "ERI",
+                    "newConfig": "Gendarmerie"
+                }
+            ]
+        },
+        {
+            "vehicle": "van",
+            "configs": [
+                {
+                    "configName": "GN",
+                    "newConfig": "Gendarmerie"
+                }
+            ]
+        },
+        {
+            "vehicle": "vivace",
+            "configs": [
+                {
+                    "configName": "vivace_skin_ERI",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "vivace_skin_gendarmerie",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "vivace_skin_gendarmerie_t",
+                    "newConfig": "Gendarmerie"
+                }
+            ]
+        }
+    ]
+}
