@@ -75,7 +75,7 @@ export class ProgramCreator {
 
     async applyProgram(program: Program): Promise<void> {
         if (program.modName !== this.mod.modName) {
-            throw new Error(`Le nom du mod du programme ($ {program.modName}) ne correspond pas au nom du mod de l'instance ($ {this.mod.modName}).`)
+            throw new Error(`Program name ($ {program.modName}) does not correspond with instance name ($ {this.mod.modName}).`)
         }
         for (const programVehicle of program.vehicles) {
             for (const programConfig of programVehicle.configs) {
