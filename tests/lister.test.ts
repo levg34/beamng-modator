@@ -1,6 +1,8 @@
 import { listConfigs, listMods, listVehicles } from "../actioner/lister"
 import { EXPECTED_CONFIG, TESTED_MOD, TESTED_VEHICLE } from "./test-constants"
 
+jest.mock('../utils/path-utils')
+
 describe('Test mod lister', () => {
     it('should list correctly the mods', async () => {
         expect(await listMods()).toEqual([TESTED_MOD])

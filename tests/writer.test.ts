@@ -6,6 +6,8 @@ import { PC } from '../types/pc-types'
 import { getInfoFilePath, getPCFilePath, getVehiclesPath } from '../utils/path-utils'
 import { EXPECTED_CONFIG, TESTED_MOD, TESTED_VEHICLE } from './test-constants'
 
+jest.mock('../utils/path-utils')
+
 describe('Test writer functions', () => {
     const localTestedVehicle = 'wtest_vehicle'
     const localTestedConfiguration = 'gendarmerie_new'

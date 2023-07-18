@@ -1,6 +1,8 @@
 import { Mod } from "../classes/mod"
 import { TESTED_MOD } from "./test-constants"
 
+jest.mock('../utils/path-utils')
+
 describe('Test mod class', () => {
     it('should retrieve the same name', () => {
         const mod = new Mod(TESTED_MOD)

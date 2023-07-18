@@ -1,6 +1,8 @@
 import { Vehicle } from "../classes/vehicle"
 import { EXPECTED_CONFIG, TESTED_MOD, TESTED_VEHICLE } from "./test-constants"
 
+jest.mock('../utils/path-utils')
+
 describe('Test vehicle class', () => {
     it('should not change the names', () => {
         const vehicle = new Vehicle(TESTED_MOD, TESTED_VEHICLE)

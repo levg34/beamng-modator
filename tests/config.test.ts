@@ -1,6 +1,8 @@
 import { Config, ConfigLoader } from "../classes/config"
 import { EXPECTED_CONFIG, EXPECTED_CONFIG_OBJECT, EXPECTED_INFO_POMPIERS, EXPECTED_PC_POMPIERS, TESTED_MOD, TESTED_VEHICLE } from "./test-constants"
 
+jest.mock('../utils/path-utils')
+
 describe('config component test', () => {
     const confLoader = new ConfigLoader(TESTED_MOD,TESTED_VEHICLE,EXPECTED_CONFIG.name)
     let config: Config
