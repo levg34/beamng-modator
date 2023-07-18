@@ -1,0 +1,11 @@
+{
+"scintilla_skin_ERI": {
+    "information":{
+        "authors":"dj pancho",
+        "name":"ERI",
+        "value":1350
+    },
+    "slotType" : "paint_design",
+    "globalSkin" : "ERI"
+  },
+}

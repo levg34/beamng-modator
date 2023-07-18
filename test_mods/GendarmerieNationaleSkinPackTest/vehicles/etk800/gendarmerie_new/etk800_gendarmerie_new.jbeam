@@ -1,0 +1,11 @@
+{
+"etk800_gendarmerie_new": {
+    "information":{
+        "authors":"dj pancho",
+        "name":"gendarmerie_new",
+        "value":100,
+    }
+    "slotType" : "paint_design",
+    "globalSkin" : "gendarmerie_new",
+}
+}

@@ -50,3 +50,7 @@ Let's say you have a mod called `example` that adds a new car to BeamNG. You wan
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Credits
+
+This project uses the [French Gendarmerie Nationale Skin Pack](https://www.beamng.com/resources/french-gendarmerie-nationale-skin-pack.24553/) mod by [dj pancho](https://www.beamng.com/resources/authors/dj-pancho.493644/) for unit testing. The mod is included in this repository with his permission, as long as he is mentioned. Thanks to dj pancho for his awesome work!

@@ -1,0 +1,9 @@
+  "hopper_skin_Gendarmerie": {
+   "information":{
+       "authors":"dj pancho",
+       "name":"Gendarmerie Nationale",
+       "value":200,
+   }
+   "slotType" : "paint_design",
+   "globalSkin" : "Gendarmerie",
+   }

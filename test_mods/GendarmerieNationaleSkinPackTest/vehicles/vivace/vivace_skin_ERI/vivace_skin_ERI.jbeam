@@ -1,0 +1,11 @@
+   {
+   "vivace_vivace_skin_ERI": {
+   "information":{
+       "authors":"dj pancho",
+       "name":"ERI",
+       "value":200,
+   }
+   "slotType" : "paint_design",
+   "globalSkin" : "vivace_skin_ERI",
+   },
+   }

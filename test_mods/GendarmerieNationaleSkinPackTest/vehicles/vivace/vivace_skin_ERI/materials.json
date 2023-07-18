@@ -1,0 +1,40 @@
+{
+  "vivace.skin.vivace_skin_ERI" : {
+    "name" : "vivace.skin.vivace_skin_ERI",
+    "mapTo" : "vivace.skin.vivace_skin_ERI",
+    "class" : "Material",
+    "persistentId" : "c033f0bf-31d0-4a1b-9a91-595e8f6f69f6",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/vehicles/vivace/vivace_main_ao.data.png",
+        "baseColorMap": "/vehicles/vivace/vivace_main_b.color.png",
+        "metallicMap": "/vehicles/vivace/vivace_main_m.data.png",
+        "metallicFactor": 1,
+        "roughnessFactor": 1,
+        "normalMap": "//vehicles/vivace/vivace_main_nm.normal.png",
+        "roughnessMap": "/vehicles/vivace/vivace_main_r.data.png",
+        "useAnisotropic": true
+      },
+      {
+        "ambientOcclusionMap": "/vehicles/vivace/vivace_main_ao.data.png",
+        "useAnisotropic": true,
+        "diffuseMapUseUV": 1,
+        "clearCoatFactor": 1,
+        "clearCoatRoughnessFactor":0.02,
+        "metallicFactor": 0.6,
+        "clearCoatMap": "/vehicles/vivace/vivace_main_cc.data.png",
+        "normalMap": "//vehicles/vivace/vivace_main_nm.normal.png",
+        "opacityMap": "/vehicles/vivace/vivace_main_c.data.png",
+        "baseColorMap": "vehicles/vivace/vivace_skin_ERI/vivace_skin_ERI.dds",
+      },
+      {},
+      {}
+    ],
+    "activeLayers": 2,
+    "dynamicCubemap": true,
+    "materialTag0": "beamng",
+    "materialTag1": "vehicle",
+    "order_simset": 0,
+    "version": 1.5
+  },
+}

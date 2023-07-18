@@ -1,0 +1,237 @@
+{
+    "attachments": [],
+    "resource_id": 24553,
+    "current_version_id": 42795,
+    "download_count": 0,
+    "resource_version_id": 42795,
+    "version_string": "0.5",
+    "last_update": 1669482640,
+    "rating_avg": 0,
+    "rating_count": 0,
+    "rating_sum": 0,
+    "resource_category_id": 12,
+    "resource_date": 1669482640,
+    "review_count": 0,
+    "tag_line": "A mod on the French Gendarmerie Nationale!",
+    "update_count": 0,
+    "path": "MGVNYR1UA\/42795\/",
+    "filename": "GendarmerieNationaleSkinPack.zip",
+    "title": "Gendarmerie Nationale Skin-Pack",
+    "user_id": 493644,
+    "username": "dj pancho",
+    "tagid": "MGVNYR1UA",
+    "message": "[U]Hello,[\/U]\n\nThis is the Gendarmerie Nationale Skin-Pack, this mod is composed of vehicles of the French Gendarmerie Nationale.\n\nIt is currently composed of [U]4 vehicles[\/U] but should be improved in the future, all these vehicles are currently with the latest silkscreen of the French National Gendarmerie.\n\n[B]I hope you will like the mod, don't hesitate to comment to report bugs ![\/B]\n\n[B][U][SIZE=5][COLOR=#ff0000]Thanks for not reuploading it.[\/COLOR][\/SIZE][\/U][\/B]\n\n[I][U]I advise to use other mods that you can find below:[\/U][\/I]\n\n[SPOILER=\"The Mods\"]Improved Siren Mod : [URL]https:\/\/www.beamng.com\/threads\/improved-siren-mod-3-0.77744\/[\/URL]\n\nFrench Skin Vehicles (to play with other vehicles of the French services) : [URL]https:\/\/www.beamng.com\/resources\/french-skins-vehicles.20047\/[\/URL]\n\n[Emerlight] Vivace\/Tograc Unmarked Blue Light Setup (EU style) : [URL]https:\/\/www.beamng.com\/resources\/emerlight-vivace-tograc-unmarked-blue-light-setup-eu-style.15185\/[\/URL][\/SPOILER]\n\n[IMG]https:\/\/cdn.discordapp.com\/attachments\/942326514001776690\/1046107623130402846\/screenshot_2022-11-26_10-24-59.png[\/IMG] [IMG]https:\/\/cdn.discordapp.com\/attachments\/942326514001776690\/1046107623545655296\/screenshot_2022-11-26_10-25-18.png[\/IMG] [IMG]https:\/\/cdn.discordapp.com\/attachments\/942326514001776690\/1046109286960472175\/screenshot_2022-11-26_10-26-10.png[\/IMG] [IMG]https:\/\/cdn.discordapp.com\/attachments\/942326514001776690\/1046109287342166056\/screenshot_2022-11-26_10-26-25.png[\/IMG] [IMG]https:\/\/cdn.discordapp.com\/attachments\/942326514001776690\/1046109287711248424\/screenshot_2022-11-26_10-29-01.png[\/IMG] [IMG]https:\/\/cdn.discordapp.com\/attachments\/942326514001776690\/1046109288067768411\/screenshot_2022-11-26_10-29-18.png[\/IMG] [IMG]https:\/\/cdn.discordapp.com\/attachments\/942326514001776690\/1046109288508182638\/screenshot_2022-11-26_10-33-05.png[\/IMG] [IMG]https:\/\/cdn.discordapp.com\/attachments\/942326514001776690\/1046109288927596635\/screenshot_2022-11-26_10-33-28.png[\/IMG] [IMG]https:\/\/cdn.discordapp.com\/attachments\/942326514001776690\/1046109289296699463\/screenshot_2022-11-26_10-36-34.png[\/IMG] [IMG]https:\/\/cdn.discordapp.com\/attachments\/942326514001776690\/1046109289674199040\/screenshot_2022-11-26_10-36-53.png[\/IMG] [IMG]https:\/\/cdn.discordapp.com\/attachments\/942326514001776690\/1046109290081030174\/screenshot_2022-11-26_10-37-24.png[\/IMG]",
+    "category_title": "",
+    "prefix_title": "Alpha",
+    "via": "packed by repo on Sat, 26 Nov 2022 19:01:09 GMT",
+    "hashes": [
+        [
+            "vehicles\/scintilla\/ERI\/scintilla_UV.png",
+            "3ca48fd2bcd05b77"
+        ],
+        [
+            "vehicles\/scintilla\/ERI\/scintilla_skin_ERI.jbeam",
+            "5a6d09d8e2bd749c"
+        ],
+        [
+            "vehicles\/scintilla\/ERI\/scintilla_skin_ERI.dds",
+            "0a3092da0c7ed780"
+        ],
+        [
+            "vehicles\/scintilla\/ERI\/materials.json",
+            "3a941d25254887c3"
+        ],
+        [
+            "vehicles\/scintilla\/ERI.pc",
+            "1a577f73f40b383f"
+        ],
+        [
+            "vehicles\/scintilla\/info_ERI.json",
+            "aa43d72c0831c895"
+        ],
+        [
+            "vehicles\/scintilla\/ERI.png",
+            "9537e66334e8cbad"
+        ],
+        [
+            "vehicles\/common\/lightbar_blue\/mod_lightbar_blue_g.dds",
+            "343621ce76705626"
+        ],
+        [
+            "vehicles\/common\/lightbar_blue\/mod_lightbar_s_blue.dds",
+            "6d14273685eaac3d"
+        ],
+        [
+            "vehicles\/common\/lightbar_blue\/mod_lightbar_d_blue.dds",
+            "343621ce76705626"
+        ],
+        [
+            "vehicles\/common\/lightbar_blue\/materials.cs",
+            "0cff1169e04864c1"
+        ],
+        [
+            "vehicles\/common\/lightbar_blue\/mod_lightbar_g_blue.dds",
+            "343621ce76705626"
+        ],
+        [
+            "vehicles\/common\/lightbar_blue\/mod_lightbars_blue_g.dds",
+            "343621ce76705626"
+        ],
+        [
+            "vehicles\/common\/lightbar_blue\/mod_lightbar_blue_d.dds",
+            "343621ce76705626"
+        ],
+        [
+            "vehicles\/common\/lightbar_amber\/mod_lightbar_amber_g.dds",
+            "28ec99ca51cbacc4"
+        ],
+        [
+            "vehicles\/common\/lightbar_amber\/materials.cs",
+            "b55f28eb3e72709b"
+        ],
+        [
+            "vehicles\/common\/lightbar_amber\/mod_lightbar_amber_d.dds",
+            "0c55be59dc3c11ef"
+        ],
+        [
+            "vehicles\/common\/lightbar_sdis\/mod_lightbar_sdis_s.dds",
+            "41270076a5ad498a"
+        ],
+        [
+            "vehicles\/common\/lightbar_sdis\/lighbars.dae",
+            "5866be9c8d490094"
+        ],
+        [
+            "vehicles\/common\/lightbar_sdis\/mod_lightbar_sdis_d.dds",
+            "75318d5a69095700"
+        ],
+        [
+            "vehicles\/common\/lightbar_sdis\/mod_lightbar_sdis_g.dds",
+            "10f84e2d85a2eb3a"
+        ],
+        [
+            "vehicles\/common\/lightbar_sdis\/materials.cs",
+            "251eef7e2959e657"
+        ],
+        [
+            "vehicles\/common\/lightbar_sdis\/lighbars.cdae",
+            "7ed307c14fc726db"
+        ],
+        [
+            "vehicles\/common\/lightbar_sdis\/mod_lightbar_sdis_n.dds",
+            "caa0b9b33cdd722d"
+        ],
+        [
+            "vehicles\/common\/lightbars_fr\/old_lightbar_d_cn.dds",
+            "a784116b5143f487"
+        ],
+        [
+            "vehicles\/common\/lightbars_fr\/eur_lightbar_s_fr.dds",
+            "b431b77724fbbea3"
+        ],
+        [
+            "vehicles\/common\/lightbars_fr\/old_lightbar_d_dmg_cn.dds",
+            "39ffa95884e94024"
+        ],
+        [
+            "vehicles\/common\/lightbars_fr\/eur_lightbar_g_fr.dds",
+            "d5edce44885b4999"
+        ],
+        [
+            "vehicles\/common\/lightbars_fr\/materials.cs",
+            "1cb0f5837f7cbee4"
+        ],
+        [
+            "vehicles\/common\/lightbars_fr\/lighbar_cn.dae",
+            "b142faf05aee118a"
+        ],
+        [
+            "vehicles\/common\/lightbars_fr\/eur_lightbar_d_fr.dds",
+            "42d765638d48f375"
+        ],
+        [
+            "vehicles\/hopper\/Gendarmerie\/hopper_Gendarmerie.jbeam",
+            "54ae2fa7d3d96dfc"
+        ],
+        [
+            "vehicles\/hopper\/Gendarmerie\/materials.cs",
+            "a3645e1e3fb6931e"
+        ],
+        [
+            "vehicles\/hopper\/Gendarmerie\/hopper_skin_Gendarmerie.dds",
+            "e8cc38cb301ccc1f"
+        ],
+        [
+            "vehicles\/hopper\/Gendarmerie.pc",
+            "8d1423b2475e37dc"
+        ],
+        [
+            "vehicles\/hopper\/info_Gendarmerie.json",
+            "971775ca0608b5d5"
+        ],
+        [
+            "vehicles\/hopper\/Gendarmerie.png",
+            "5f4f3901af728fca"
+        ],
+        [
+            "vehicles\/hopper\/hopper_lightbar.jbeam",
+            "3914ef62f2592196"
+        ],
+        [
+            "vehicles\/vivace\/vivace_skin_ERI.pc",
+            "811589029ec00b74"
+        ],
+        [
+            "vehicles\/vivace\/vivace_skin_ERI\/vivace_skin_ERI.dds",
+            "491c29afa92aefc2"
+        ],
+        [
+            "vehicles\/vivace\/vivace_skin_ERI\/vivace_skin_ERI.jbeam",
+            "4ea5a3ea5f30618d"
+        ],
+        [
+            "vehicles\/vivace\/vivace_skin_ERI\/materials.json",
+            "9c5dab5f7a92d4a1"
+        ],
+        [
+            "vehicles\/vivace\/vivace_skin_ERI.png",
+            "0618db719bc70ab5"
+        ],
+        [
+            "vehicles\/vivace\/info_vivace_skin_ERI.json",
+            "c710d50b9aac3be4"
+        ],
+        [
+            "vehicles\/etk800\/info_gendarmerie_new.json",
+            "5f3bf3df680720ab"
+        ],
+        [
+            "vehicles\/etk800\/etk800_blue_flat_lightbar.jbeam",
+            "d13e3848d2dd9850"
+        ],
+        [
+            "vehicles\/etk800\/gendarmerie_new.pc",
+            "d982ea5d5380250d"
+        ],
+        [
+            "vehicles\/etk800\/gendarmerie_new\/etk800_skin_gendarmerie_new.dds",
+            "18024a175ad64b82"
+        ],
+        [
+            "vehicles\/etk800\/gendarmerie_new\/etk800_gendarmerie_new.jbeam",
+            "e4ebde00b2364e8c"
+        ],
+        [
+            "vehicles\/etk800\/gendarmerie_new\/materials_new.cs",
+            "3d47141b46c4ca7a"
+        ],
+        [
+            "vehicles\/etk800\/gendarmerie_new.png",
+            "2d5a0b3153b7ebd6"
+        ],
+        [
+            "vehicles\/etk800\/etk800_blue_flat_lightbar_2.jbeam",
+            "eea90c579b03042c"
+        ]
+    ]
+}
