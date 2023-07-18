@@ -77,11 +77,11 @@ describe('ProgramCreator', () => {
                         configs: [
                             {
                                 configName: 'test-config-1',
-                                newConfig: '2TonesPolice'
+                                newConfig: null
                             },
                             {
                                 configName: 'test-config-2',
-                                newConfig: '2TonesPolice'
+                                newConfig: null
                             },
                         ],
                     },
@@ -90,11 +90,11 @@ describe('ProgramCreator', () => {
                         configs: [
                             {
                                 configName: 'test-config-3',
-                                newConfig: '2TonesPolice'
+                                newConfig: null
                             },
                             {
                                 configName: 'test-config-4',
-                                newConfig: '2TonesPolice'
+                                newConfig: null
                             },
                         ],
                     },

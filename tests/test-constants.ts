@@ -354,7 +354,7 @@ export const expectedPC1 = {
     }
 }
 
-export const TESTED_MOD = 'GendarmerieNationaleSkinPack'
+export const TESTED_MOD = 'GendarmerieNationaleSkinPackTest'
 export const TESTED_VEHICLE = 'etk800'
 export const EXPECTED_CONFIG = {
     pcFile: 'gendarmerie_new.pc',
@@ -539,7 +539,7 @@ export const EXPECTED_CONFIG_OBJECT = {
         "Weight": 1660,
         "default_color": "Pearl White"
     },
-    "modName": "GendarmerieNationaleSkinPack",
+    "modName": "GendarmerieNationaleSkinPackTest",
     "pc": {
         "format": 2,
         "licenseName": "",

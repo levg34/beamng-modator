@@ -1,4 +1,4 @@
-export const MODS_BASEPATH = './data/'
+export const MODS_BASEPATH = './mods/'
 
 export function getModPath(modName: string): string {
     return MODS_BASEPATH + modName
