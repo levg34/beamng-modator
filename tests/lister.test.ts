@@ -9,7 +9,7 @@ describe('Test mod lister', () => {
     })
 
     it('should list correctly the vehicles', async () => {
-        expect(await listVehicles(TESTED_MOD)).toEqual(['etk800', 'fullsize', 'hopper', 'scintilla', 'test_vehicle', 'vivace'])
+        expect(await listVehicles(TESTED_MOD)).toEqual(['etk800', 'hopper', 'scintilla', 'test_vehicle', 'vivace'])
     })
 
     it('should list correctly the configurations', async () => {
