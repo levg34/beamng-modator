@@ -2,6 +2,8 @@
 
 This project is a script that creates a program in JSON from a BeamNG mod. The program contains instructions on how to modify the mod files, such as changing textures, sounds, or parameters. You can edit the JSON file if you want to change the automatically generated program, and then relaunch the script to apply the program to the mod.
 
+[![Node.js CI](https://github.com/levg34/beamng-modator/actions/workflows/node.js.yml/badge.svg)](https://github.com/levg34/beamng-modator/actions/workflows/node.js.yml)
+
 ## Requirements
 
 - Node.js
