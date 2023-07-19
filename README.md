@@ -10,18 +10,52 @@ This project is a script that creates a program in JSON from a BeamNG mod. The p
 - TypeScript
 - BeamNG.drive
 
+## Installation
+
+To install the project for first use, follow these steps:
+
+1. Clone or download the zip of this project from the GitHub repository.
+2. Install Node.js. This project has been tested with Node.js versions 14, 16, and 18.
+3. Run npm install in the root directory of the project to install the required dependencies.
+
+After completing these steps, you should be ready to use the project.
+
 ## Usage
 
 To use this script, you need to have a BeamNG mod installed in your `mods` folder. You can list the available mods by running:
 
 ```bash
-node main.js --list
+npm start -- --list
+```
+
+Alternatively, you can install `ts-node` globally by running `npm install -g ts-node` and then use the following command to list the available mods:
+
+```bash
+ts-node index.ts --list
+```
+
+Or, you can use `npx` to run `ts-node` without installing it globally:
+
+```bash
+npx ts-node index.ts --list
 ```
 
 To create a program from a mod, run:
 
 ```bash
-node main.js --modName <modName> --action create
+npm start -- --modName <modName> --action create
+```
+
+Or, using `ts-node`:
+
+```bash
+ts-node index.ts --modName <modName> --action create
+```
+
+Or, using `npx`:
+
+```bash
+npx ts-node index.ts --modName <modName> --action create
 ```
 
 This will unzip the mod, scan its files, and generate a JSON file with the program instructions in the `program` folder. The JSON file will have the same name as the mod.
@@ -29,7 +63,19 @@ This will unzip the mod, scan its files, and generate a JSON file with the progr
 To apply a program to a mod, run:
 
 ```bash
-node main.js --modName <modName> --action apply
+npm start -- --modName <modName> --action apply
+```
+
+Or, using `ts-node`:
+
+```bash
+ts-node index.ts --modName <modName> --action apply
+```
+
+Or, using `npx`:
+
+```bash
+npx ts-node index.ts --modName <modName> --action apply
 ```
 
 This will read the JSON file from the `program` folder and modify the mod files accordingly. Then it will zip the mod and overwrite the original one.
@@ -37,16 +83,28 @@ This will read the JSON file from the `program` folder and modify the mod files 
 You can also specify a different JSON file with the `--programFile` option:
 
 ```bash
-node main.js --modName <modName> --programFile <programFile> --action apply
+npm start -- --modName <modName> --programFile <programFile> --action apply
+```
+
+Or, using `ts-node`:
+
+```bash
+ts-node index.ts --modName <modName> --programFile <programFile> --action apply
+```
+
+Or, using `npx`:
+
+```bash
+npx ts-node index.ts --modName <modName> --programFile <programFile> --action apply
 ```
 
 ## Example
 
 Let's say you have a mod called `example` that adds a new car to BeamNG. You want to change its color and engine sound. You can do this by following these steps:
 
-1. Run `node main.js --modName example --action create` to create a program from the mod.
+1. Run `npm start -- --modName example --action create` to create a program from the mod. Alternatively, you can use `ts-node index.ts --modName example --action create` or `npx ts-node index.ts --modName example --action create`.
 2. Open the `program/example.json` file and edit it as you wish. For example, you can change the `color` property of the car or the `sound` property of the engine.
-3. Run `node main.js --modName example --action apply` to apply the program to the mod.
+3. Run `npm start -- --modName example --action apply` to apply the program to the mod. Alternatively, you can use `ts-node index.ts --modName example --action apply` or `npx ts-node index.ts --modName example --action apply`.
 4. Launch BeamNG and enjoy your modified car!
 
 ## License
