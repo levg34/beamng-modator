@@ -107,6 +107,31 @@ Let's say you have a mod called `example` that adds a new car to BeamNG. You wan
 3. Run `npm start -- --modName example --action apply` to apply the program to the mod. Alternatively, you can use `ts-node index.ts --modName example --action apply` or `npx ts-node index.ts --modName example --action apply`.
 4. Launch BeamNG and enjoy your modified car!
 
+## Contributing
+
+Contributions are welcome and appreciated! If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository on GitHub.
+2. Clone your forked repository to your local machine.
+3. Create a new branch for your changes.
+4. Make your changes and commit them to your branch.
+5. Push your changes to your forked repository on GitHub.
+6. Open a pull request from your forked repository to the original repository.
+
+Please make sure to follow the code style and conventions used in this project. If you have any questions or need help, feel free to open an issue or contact the maintainers.
+
+Before submitting your pull request, please make sure to run `npm test` and check that all tests are passing. If you have added new features or made changes that require new tests, please add them to the test suite.
+
+## Developing
+
+If you would like to set up this project for development, follow these steps:
+
+1. Clone the repository from GitHub.
+2. Install Node.js. This project has been tested with Node.js versions 14, 16, and 18.
+3. Run `npm install` in the root directory of the project to install the required dependencies.
+
+After completing these steps, you should be able to run the script using `npm start -- [options]`. You can also run `npm test` to run the unit tests and ensure that everything is working correctly.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
