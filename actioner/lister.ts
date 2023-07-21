@@ -45,3 +45,22 @@ export async function listPrograms(): Promise<string[]> {
     const programs = await fs.readdir(PROGRAM_PATH)
     return programs.filter(p => p  !== '.gitkeep').map(p => p.replace('.json', ''))
 }
+
+export type ZippedOrNot = {
+    zipped: string[]
+    unzipped: string[]
+}
+
+export async function listZippedMods(): Promise<ZippedOrNot> {
+    const mods = await listMods()
+    return mods.reduce((previous: ZippedOrNot, current: string) => current.endsWith('.zip') ? {
+        ...previous,
+        zipped: [...previous.zipped, current.replace('.zip', '')]
+    } : {
+        ...previous,
+        unzipped: [...previous.unzipped, current]
+    }, {
+        zipped: [],
+        unzipped: []
+    })
+}
