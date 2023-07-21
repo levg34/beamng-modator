@@ -1,4 +1,5 @@
 import { ConfigType } from '../actioner/editor'
+import { listPrograms } from '../actioner/lister'
 import { ConfigLoader } from './config'
 import { Mod } from './mod'
 
@@ -86,5 +87,9 @@ export class ProgramCreator {
                 }
             }
         }
+    }
+
+    static async listPrograms(): Promise<string[]> {
+        return await listPrograms()
     }
 }

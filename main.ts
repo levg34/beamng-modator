@@ -20,7 +20,10 @@ const main = async () => {
         if (list) {
             console.info(`List of available mods:`)
             const mods = await Mod.listMods()
-            mods.forEach(mod => console.info(mod))
+            mods.forEach(mod => console.info(' - ' + mod))
+            console.info(`List of available programs:`)
+            const programs = await ProgramCreator.listPrograms()
+            programs.forEach(program => console.info(' - ' + program))
             return
         }
         
