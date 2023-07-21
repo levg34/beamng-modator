@@ -3,6 +3,7 @@ import yargs from 'yargs'
 import fs from 'fs/promises'
 import { ProgramCreator } from './classes/program'
 import { PROGRAM_PATH } from './utils/path-utils'
+import { display } from './utils/display-utils'
 
 const options = yargs
     .usage('Usage: --modName <modName> --programFile <programFile> --action <action> --list')
@@ -18,12 +19,10 @@ const main = async () => {
         const { m: modName, p, a: action, l: list } = await options
         
         if (list) {
-            console.info(`List of available mods:`)
             const mods = await Mod.listMods()
-            mods.forEach(mod => console.info(' - ' + mod))
-            console.info(`List of available programs:`)
+            display('mod', mods)
             const programs = await ProgramCreator.listPrograms()
-            programs.forEach(program => console.info(' - ' + program))
+            display('program', programs)
             return
         }
         
