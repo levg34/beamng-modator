@@ -1,4 +1,4 @@
-import { listConfigs, listMods, listVehicles } from "../actioner/lister"
+import { listConfigs, listMods, listPrograms, listVehicles } from "../actioner/lister"
 import { EXPECTED_CONFIG, TESTED_MOD, TESTED_VEHICLE } from "./test-constants"
 
 jest.mock('../utils/path-utils')
@@ -25,5 +25,9 @@ describe('Test mod lister', () => {
             name: 'testv',
             infoFile: 'info_testv.json'
         }])
+    })
+
+    it('should list correctly the programs',async () => {
+        expect(await listPrograms()).toEqual(['French_Emergency_Skin_Pack_Part1', 'French_Emergency_Skin_Pack_Part2', 'GendarmerieNationaleSkinPack'])
     })
 })

@@ -1,7 +1,6 @@
 import { ConfigType } from '../actioner/editor'
 import { ConfigLoader } from './config'
 import { Mod } from './mod'
-import { Vehicle as VehicleClass } from './vehicle'
 
 interface Program {
     modName: string

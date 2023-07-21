@@ -1,5 +1,7 @@
 export const MODS_BASEPATH = './mods/'
 
+export const PROGRAM_PATH = './program/'
+
 export function getModPath(modName: string): string {
     return MODS_BASEPATH + modName
 }

@@ -1,5 +1,5 @@
 import fs from 'fs/promises'
-import { getVehiclesPath, getVehiclePath, MODS_BASEPATH } from '../utils/path-utils'
+import { getVehiclesPath, getVehiclePath, MODS_BASEPATH, PROGRAM_PATH } from '../utils/path-utils'
 
 export interface ConfigData {
     infoFile: string,
@@ -39,4 +39,9 @@ export async function listConfigs(modName: string, vehicle: string, configFiles?
         return cf
     }
     return configs
+}
+
+export async function listPrograms(): Promise<string[]> {
+    const programs = await fs.readdir(PROGRAM_PATH)
+    return programs.filter(p => p  !== '.gitkeep').map(p => p.replace('.json', ''))
 }

@@ -2,8 +2,7 @@ import { Mod } from './classes/mod'
 import yargs from 'yargs'
 import fs from 'fs/promises'
 import { ProgramCreator } from './classes/program'
-
-const PROGRAM_PATH = 'program/'
+import { PROGRAM_PATH } from './utils/path-utils'
 
 const options = yargs
     .usage('Usage: --modName <modName> --programFile <programFile> --action <action> --list')
