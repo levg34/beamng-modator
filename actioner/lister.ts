@@ -64,3 +64,17 @@ export async function listZippedMods(): Promise<ZippedOrNot> {
         unzipped: []
     })
 }
+
+export type AvailableActionMods = {
+    create: string[]
+    apply: string[]
+}
+
+export async function listModsAvailableActions(): Promise<AvailableActionMods> {
+    const mods = await listZippedMods()
+    const programs = await listPrograms()
+    return {
+        apply: programs.filter(p => mods.unzipped.includes(p)),
+        create: mods.zipped
+    }
+}

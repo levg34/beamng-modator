@@ -1,4 +1,4 @@
-import { ZippedOrNot, listConfigs, listMods, listPrograms, listVehicles, listZippedMods } from "../actioner/lister"
+import { AvailableActionMods, ZippedOrNot, listConfigs, listMods, listModsAvailableActions, listPrograms, listVehicles, listZippedMods } from "../actioner/lister"
 import { EXPECTED_CONFIG, TESTED_MOD, TESTED_VEHICLE } from "./test-constants"
 
 jest.mock('../utils/path-utils')
@@ -27,7 +27,7 @@ describe('Test mod lister', () => {
         }])
     })
 
-    it('should list correctly the programs',async () => {
+    it('should list correctly the programs', async () => {
         expect(await listPrograms()).toEqual(['French_Emergency_Skin_Pack_Part1', 'French_Emergency_Skin_Pack_Part2', 'GendarmerieNationaleSkinPack'])
     })
 
@@ -36,7 +36,15 @@ describe('Test mod lister', () => {
             zipped: ['test_mod'],
             unzipped: ['GendarmerieNationaleSkinPackTest']
         }
-        
+
         expect(await listZippedMods()).toEqual(expected)
+    })
+
+    it('should list correctly the available action mods', async () => {
+        const expected: AvailableActionMods = {
+            apply: [],
+            create: ['test_mod']
+        }
+        expect(await listModsAvailableActions()).toEqual(expected)
     })
 })
