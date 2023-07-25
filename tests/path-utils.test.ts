@@ -1,4 +1,4 @@
-import { getInfoFilePath, getModPath, getPCFilePath, getVehiclePath, getVehiclesPath } from "../utils/path-utils"
+import { getInfoFilePath, getModPath, getPCFilePath, getProgramPath, getVehiclePath, getVehiclesPath } from "../utils/path-utils"
 import { EXPECTED_CONFIG, TESTED_MOD, TESTED_VEHICLE } from "./test-constants"
 
 describe('Test path utils', () => {
@@ -16,5 +16,8 @@ describe('Test path utils', () => {
     })
     test('getPCFilePath method', () => {
         expect(getPCFilePath(TESTED_MOD, TESTED_VEHICLE, EXPECTED_CONFIG.name)).toBe('./mods/GendarmerieNationaleSkinPackTest/vehicles/etk800/'+EXPECTED_CONFIG.pcFile)
+    })
+    test('getProgramPath method', () => {
+        expect(getProgramPath(TESTED_MOD)).toBe('./program/GendarmerieNationaleSkinPackTest.json')
     })
 })
