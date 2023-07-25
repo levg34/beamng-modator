@@ -21,3 +21,7 @@ export function getInfoFilePath(modName: string, vehicle: string, configName: st
 export function getPCFilePath(modName: string, vehicle: string, configName: string): string {
     return getVehiclePath(modName, vehicle)+`/${configName}.pc`
 }
+
+export function getProgramPath(modName: string): string {
+    return PROGRAM_PATH + modName + '.json'
+}
