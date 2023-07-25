@@ -2,7 +2,7 @@ import { Mod } from './classes/mod'
 import yargs from 'yargs'
 import fs from 'fs/promises'
 import { ProgramCreator } from './classes/program'
-import { PROGRAM_PATH } from './utils/path-utils'
+import { getProgramPath } from './utils/path-utils'
 import { display } from './utils/display-utils'
 
 const options = yargs
@@ -30,7 +30,7 @@ const main = async () => {
         
         let programFile = p
 
-        if (!programFile) programFile = PROGRAM_PATH + modName + '.json'
+        if (!programFile) programFile = getProgramPath(modName)
 
         const mod = new Mod(modName)
         const programCreator = new ProgramCreator(mod)
