@@ -1,3 +1,4 @@
+import fs from 'fs/promises'
 import { AvailableActionMods, ZippedOrNot, listConfigs, listMods, listModsAvailableActions, listPrograms, listVehicles, listZippedMods } from "../actioner/lister"
 import { EXPECTED_CONFIG, TESTED_MOD, TESTED_VEHICLE } from "./test-constants"
 
@@ -46,5 +47,15 @@ describe('Test mod lister', () => {
             create: ['test_mod']
         }
         expect(await listModsAvailableActions()).toEqual(expected)
+    })
+
+    it('should list correctly the available action mods 2', async () => {
+        await fs.copyFile('program/GendarmerieNationaleSkinPack.json', 'program/GendarmerieNationaleSkinPackTest.json')
+        const expected: AvailableActionMods = {
+            apply: ['GendarmerieNationaleSkinPackTest'],
+            create: ['test_mod']
+        }
+        expect(await listModsAvailableActions()).toEqual(expected)
+        await fs.rm('program/GendarmerieNationaleSkinPackTest.json')
     })
 })
