@@ -134,7 +134,7 @@ After completing these steps, you should be able to run the script using `npm st
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNUv3 License - see the [LICENSE](LICENSE) file for details.
 
 ## Credits
 
