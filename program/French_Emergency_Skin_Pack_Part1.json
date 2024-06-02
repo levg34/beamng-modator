@@ -23,15 +23,11 @@
             ]
         },
         {
-            "vehicle": "boxutility",
-            "configs": []
-        },
-        {
             "vehicle": "citybus",
             "configs": [
                 {
                     "configName": "LABO",
-                    "newConfig": "Gendarmerie"
+                    "newConfig": null
                 },
                 {
                     "configName": "SAMU",
@@ -39,7 +35,7 @@
                 },
                 {
                     "configName": "administration",
-                    "newConfig": "PoliceFR"
+                    "newConfig": null
                 },
                 {
                     "configName": "flixbus",
@@ -94,7 +90,7 @@
                 },
                 {
                     "configName": "Commandement",
-                    "newConfig": "Pompiers"
+                    "newConfig": null
                 },
                 {
                     "configName": "Enedis",
@@ -102,7 +98,7 @@
                 },
                 {
                     "configName": "Inmate",
-                    "newConfig": "PoliceFR"
+                    "newConfig": null
                 },
                 {
                     "configName": "Protection_Civile",
@@ -135,7 +131,7 @@
                 },
                 {
                     "configName": "banalisee",
-                    "newConfig": "PoliceFR"
+                    "newConfig": null
                 },
                 {
                     "configName": "douane",
@@ -143,7 +139,7 @@
                 },
                 {
                     "configName": "fdmed",
-                    "newConfig": "Pompiers"
+                    "newConfig": null
                 },
                 {
                     "configName": "gendarme",
@@ -155,10 +151,6 @@
                 },
                 {
                     "configName": "gendarmecampagne",
-                    "newConfig": "Gendarmerie"
-                },
-                {
-                    "configName": "gendarmerie",
                     "newConfig": "Gendarmerie"
                 },
                 {
@@ -199,7 +191,60 @@
         },
         {
             "vehicle": "euvan",
-            "configs": []
+            "configs": [
+                {
+                    "configName": "dir",
+                    "newConfig": null
+                },
+                {
+                    "configName": "douane",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "enedis",
+                    "newConfig": null
+                },
+                {
+                    "configName": "garde_republicaine",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "gendarmerie",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "grdf_blanc",
+                    "newConfig": null
+                },
+                {
+                    "configName": "grdf_bleu",
+                    "newConfig": null
+                },
+                {
+                    "configName": "police",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "policemun",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "pompier",
+                    "newConfig": "Pompiers"
+                },
+                {
+                    "configName": "prison",
+                    "newConfig": null
+                },
+                {
+                    "configName": "samu",
+                    "newConfig": "SAMU"
+                },
+                {
+                    "configName": "saur",
+                    "newConfig": null
+                }
+            ]
         },
         {
             "vehicle": "fullsize",
@@ -218,7 +263,7 @@
                 },
                 {
                     "configName": "convoi",
-                    "newConfig": "Service"
+                    "newConfig": null
                 }
             ]
         },
@@ -227,7 +272,7 @@
             "configs": [
                 {
                     "configName": "ONF",
-                    "newConfig": "PoliceFR"
+                    "newConfig": null
                 },
                 {
                     "configName": "hopper_skin_gendarmerie_montagne",
@@ -236,6 +281,47 @@
                 {
                     "configName": "hopper_skin_gendarmerie_tt",
                     "newConfig": "Gendarmerie"
+                }
+            ]
+        },
+        {
+            "vehicle": "lansdale",
+            "configs": [
+                {
+                    "configName": "Douane",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "DouaneOld",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "Gendarmerie",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "PoliceMun",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "PoliceMunOld",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "PoliceNat",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "PoliceOld",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "Pompier",
+                    "newConfig": "Pompiers"
+                },
+                {
+                    "configName": "SAMU",
+                    "newConfig": "SAMU"
                 }
             ]
         },
@@ -279,10 +365,6 @@
                 {
                     "configName": "gendarme",
                     "newConfig": "Gendarmerie"
-                },
-                {
-                    "configName": "gendarmecampagne",
-                    "newConfig": "Gendarmerie"
                 }
             ]
         },
@@ -290,7 +372,54 @@
             "vehicle": "midtruck",
             "configs": [
                 {
-                    "configName": "midtruck",
+                    "configName": "gendarmerie",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "pompier",
+                    "newConfig": "Pompiers"
+                }
+            ]
+        },
+        {
+            "vehicle": "pessima",
+            "configs": [
+                {
+                    "configName": "FPD",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "ambutaxi",
+                    "newConfig": "Ambulance3Tons"
+                }
+            ]
+        },
+        {
+            "vehicle": "pickup",
+            "configs": [
+                {
+                    "configName": "gendarme",
+                    "newConfig": "Gendarmerie"
+                },
+                {
+                    "configName": "pickup_skin_DIR",
+                    "newConfig": null
+                },
+                {
+                    "configName": "raid",
+                    "newConfig": "PoliceFR"
+                },
+                {
+                    "configName": "vigipirate",
+                    "newConfig": null
+                }
+            ]
+        },
+        {
+            "vehicle": "pigeon",
+            "configs": [
+                {
+                    "configName": "town",
                     "newConfig": null
                 }
             ]
