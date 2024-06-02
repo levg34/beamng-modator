@@ -1,0 +1,7 @@
+{
+    "Gendarmerie": ["gendarme", "gign", "garde"],
+    "PoliceFR": ["fpd", "police", "crs", "bri", "douane", "asvp", "municipale", "bac", "paf", "raid", "pn"],
+    "Pompiers": ["pompier", "vsav", "sdis"],
+    "SAMU": ["samu", "croix", "sosmed", "civile"],
+    "Ambulance3Tons": ["ambu"]
+}

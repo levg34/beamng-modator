@@ -2,6 +2,7 @@ import { ConfigType } from '../actioner/editor'
 import { listPrograms } from '../actioner/lister'
 import { ConfigLoader } from './config'
 import { Mod } from './mod'
+import configStrings from '../config/configStrings.json'
 
 interface Program {
     modName: string
@@ -34,20 +35,10 @@ export class ProgramCreator {
         function configSimilarTo(text: string): boolean {
             return configName.toLowerCase().includes(text)
         }
-        if (configSimilarTo('gendarme') || configSimilarTo('gign') || configSimilarTo('garde')) {
-            return 'Gendarmerie'
-        }
-        if (configSimilarTo('fpd') || configSimilarTo('police') || configSimilarTo('crs') || configSimilarTo('bri') || configSimilarTo('douane') || configSimilarTo('asvp') || configSimilarTo('municipale') || configSimilarTo('bac') || configSimilarTo('paf')  || configSimilarTo('raid') || configSimilarTo('pn')) {
-            return 'PoliceFR'
-        }
-        if (configSimilarTo('pompier') || configSimilarTo('vsav') || configSimilarTo('sdis')) {
-            return 'Pompiers'
-        }
-        if (configSimilarTo('samu') || configSimilarTo('croix') || configSimilarTo('sosmed') || configSimilarTo('civile')) {
-            return 'SAMU'
-        }
-        if (configSimilarTo('ambu')) {
-            return 'Ambulance3Tons'
+        for (const [config, strings] of Object.entries(configStrings)) {
+            if (strings.some(configSimilarTo)) {
+                return config as ConfigType
+            }
         }
         return null
     }
@@ -75,12 +66,18 @@ export class ProgramCreator {
 
     async applyProgram(program: Program): Promise<void> {
         if (program.modName !== this.mod.modName) {
-            throw new Error(`Program name ($ {program.modName}) does not correspond with instance name ($ {this.mod.modName}).`)
+            throw new Error(
+                `Program name ($ {program.modName}) does not correspond with instance name ($ {this.mod.modName}).`
+            )
         }
         for (const programVehicle of program.vehicles) {
             for (const programConfig of programVehicle.configs) {
                 if (programConfig.newConfig !== null) {
-                    const configLoader = new ConfigLoader(this.mod.modName, programVehicle.vehicle, programConfig.configName)
+                    const configLoader = new ConfigLoader(
+                        this.mod.modName,
+                        programVehicle.vehicle,
+                        programConfig.configName
+                    )
                     const config = await configLoader.load()
                     const configInfo = config.edit(programConfig.newConfig)
                     await config.save()
