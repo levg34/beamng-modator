@@ -27,7 +27,7 @@
             "configs": [
                 {
                     "configName": "LABO",
-                    "newConfig": null
+                    "newConfig": "Gendarmerie"
                 },
                 {
                     "configName": "SAMU",
@@ -35,7 +35,7 @@
                 },
                 {
                     "configName": "administration",
-                    "newConfig": null
+                    "newConfig": "PoliceFR"
                 },
                 {
                     "configName": "flixbus",
@@ -90,7 +90,7 @@
                 },
                 {
                     "configName": "Commandement",
-                    "newConfig": null
+                    "newConfig": "Pompiers"
                 },
                 {
                     "configName": "Enedis",
@@ -98,7 +98,7 @@
                 },
                 {
                     "configName": "Inmate",
-                    "newConfig": null
+                    "newConfig": "PoliceFR"
                 },
                 {
                     "configName": "Protection_Civile",
@@ -131,7 +131,7 @@
                 },
                 {
                     "configName": "banalisee",
-                    "newConfig": null
+                    "newConfig": "Gendarmerie"
                 },
                 {
                     "configName": "douane",
@@ -139,7 +139,7 @@
                 },
                 {
                     "configName": "fdmed",
-                    "newConfig": null
+                    "newConfig": "Pompiers"
                 },
                 {
                     "configName": "gendarme",
@@ -194,7 +194,7 @@
             "configs": [
                 {
                     "configName": "dir",
-                    "newConfig": null
+                    "newConfig": "Service"
                 },
                 {
                     "configName": "douane",
@@ -234,7 +234,7 @@
                 },
                 {
                     "configName": "prison",
-                    "newConfig": null
+                    "newConfig": "PoliceFR"
                 },
                 {
                     "configName": "samu",
@@ -242,7 +242,7 @@
                 },
                 {
                     "configName": "saur",
-                    "newConfig": null
+                    "newConfig": "Service"
                 }
             ]
         },
@@ -263,7 +263,7 @@
                 },
                 {
                     "configName": "convoi",
-                    "newConfig": null
+                    "newConfig": "Service"
                 }
             ]
         },
@@ -272,7 +272,7 @@
             "configs": [
                 {
                     "configName": "ONF",
-                    "newConfig": null
+                    "newConfig": "PoliceFR"
                 },
                 {
                     "configName": "hopper_skin_gendarmerie_montagne",
@@ -343,7 +343,7 @@
                 },
                 {
                     "configName": "SAUR",
-                    "newConfig": null
+                    "newConfig": "Service"
                 }
             ]
         },
@@ -403,7 +403,7 @@
                 },
                 {
                     "configName": "pickup_skin_DIR",
-                    "newConfig": null
+                    "newConfig": "Service"
                 },
                 {
                     "configName": "raid",
@@ -411,7 +411,7 @@
                 },
                 {
                     "configName": "vigipirate",
-                    "newConfig": null
+                    "newConfig": "PoliceFR"
                 }
             ]
         },
@@ -420,7 +420,7 @@
             "configs": [
                 {
                     "configName": "town",
-                    "newConfig": null
+                    "newConfig": "Service"
                 }
             ]
         }

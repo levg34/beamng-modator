@@ -18,7 +18,7 @@
                 },
                 {
                     "configName": "commandement",
-                    "newConfig": null
+                    "newConfig": "Pompiers"
                 },
                 {
                     "configName": "croixrouge",
@@ -69,11 +69,11 @@
             "configs": [
                 {
                     "configName": "dir",
-                    "newConfig": null
+                    "newConfig": "Service"
                 },
                 {
                     "configName": "vinci",
-                    "newConfig": null
+                    "newConfig": "Service"
                 }
             ]
         },
@@ -115,7 +115,7 @@
             "configs": [
                 {
                     "configName": "BCA",
-                    "newConfig": null
+                    "newConfig": "SAMU"
                 },
                 {
                     "configName": "CRS",
@@ -123,7 +123,7 @@
                 },
                 {
                     "configName": "DIR",
-                    "newConfig": null
+                    "newConfig": "Service"
                 },
                 {
                     "configName": "DPDGROUP",
@@ -135,11 +135,11 @@
                 },
                 {
                     "configName": "GRDF",
-                    "newConfig": null
+                    "newConfig": "Service"
                 },
                 {
                     "configName": "ICG",
-                    "newConfig": null
+                    "newConfig": "Gendarmerie"
                 },
                 {
                     "configName": "PNCRS",
@@ -175,7 +175,7 @@
                 },
                 {
                     "configName": "inmate",
-                    "newConfig": null
+                    "newConfig": "PoliceFR"
                 },
                 {
                     "configName": "poste",
@@ -187,7 +187,7 @@
                 },
                 {
                     "configName": "sapvan",
-                    "newConfig": null
+                    "newConfig": "Pompiers"
                 },
                 {
                     "configName": "ukambulance",
@@ -207,7 +207,7 @@
                 },
                 {
                     "configName": "van_skin_DIR_Camion",
-                    "newConfig": null
+                    "newConfig": "Service"
                 },
                 {
                     "configName": "van_skin_ENEDIS",
@@ -231,11 +231,11 @@
                 },
                 {
                     "configName": "van_skin_JUSSIEU",
-                    "newConfig": null
+                    "newConfig": "SAMU"
                 },
                 {
                     "configName": "van_skin_NRBC",
-                    "newConfig": null
+                    "newConfig": "Pompiers"
                 },
                 {
                     "configName": "van_skin_PN",
@@ -271,7 +271,7 @@
                 },
                 {
                     "configName": "van_skin_SECURITE_AEROPORT",
-                    "newConfig": null
+                    "newConfig": "PoliceFR"
                 },
                 {
                     "configName": "van_skin_SNCF",
@@ -283,7 +283,7 @@
                 },
                 {
                     "configName": "van_skin_VINCI",
-                    "newConfig": null
+                    "newConfig": "Service"
                 },
                 {
                     "configName": "van_skin_VSAV",
@@ -299,15 +299,15 @@
                 },
                 {
                     "configName": "van_skin_commandement",
-                    "newConfig": null
+                    "newConfig": "Pompiers"
                 },
                 {
                     "configName": "van_skin_deminage",
-                    "newConfig": null
+                    "newConfig": "PoliceFR"
                 },
                 {
                     "configName": "van_skin_inmate2",
-                    "newConfig": null
+                    "newConfig": "PoliceFR"
                 },
                 {
                     "configName": "veolia",
@@ -320,7 +320,7 @@
             "configs": [
                 {
                     "configName": "FFSS",
-                    "newConfig": null
+                    "newConfig": "Pompiers"
                 },
                 {
                     "configName": "FPD",
@@ -340,7 +340,7 @@
                 },
                 {
                     "configName": "vivace_skin_CIRCULATION",
-                    "newConfig": null
+                    "newConfig": "PoliceFR"
                 },
                 {
                     "configName": "vivace_skin_CONVOIS",
@@ -348,7 +348,7 @@
                 },
                 {
                     "configName": "vivace_skin_DIR",
-                    "newConfig": null
+                    "newConfig": "Service"
                 },
                 {
                     "configName": "vivace_skin_DOUANE",
@@ -360,7 +360,7 @@
                 },
                 {
                     "configName": "vivace_skin_ENEDIS",
-                    "newConfig": null
+                    "newConfig": "Service"
                 },
                 {
                     "configName": "vivace_skin_GARDE",
@@ -368,11 +368,11 @@
                 },
                 {
                     "configName": "vivace_skin_GRDF",
-                    "newConfig": null
+                    "newConfig": "Service"
                 },
                 {
                     "configName": "vivace_skin_GRDF_URGENCE_GAZ",
-                    "newConfig": null
+                    "newConfig": "Ambulance3Tons"
                 },
                 {
                     "configName": "vivace_skin_PAF",
@@ -416,31 +416,31 @@
                 },
                 {
                     "configName": "vivace_skin_TELMEDECINE",
-                    "newConfig": null
+                    "newConfig": "SAMU"
                 },
                 {
                     "configName": "vivace_skin_UMHA",
-                    "newConfig": null
+                    "newConfig": "Ambulance3Tons"
                 },
                 {
                     "configName": "vivace_skin_URGENCE_GREFFONS",
-                    "newConfig": null
+                    "newConfig": "Ambulance3Tons"
                 },
                 {
                     "configName": "vivace_skin_VINCI",
-                    "newConfig": null
+                    "newConfig": "Service"
                 },
                 {
                     "configName": "vivace_skin_VLCG",
-                    "newConfig": null
+                    "newConfig": "Pompiers"
                 },
                 {
                     "configName": "vivace_skin_VPILOTE",
-                    "newConfig": null
+                    "newConfig": "Gendarmerie"
                 },
                 {
                     "configName": "vivace_skin_VRM",
-                    "newConfig": null
+                    "newConfig": "Pompiers"
                 },
                 {
                     "configName": "vivace_skin_bouygue",
